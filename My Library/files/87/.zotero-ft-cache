@@ -1,0 +1,152 @@
+
+
+We use cookies to improve your experience on our websites and for advertising. Privacy Statement
+Accept all Manage cookies
+Skip to Header Skip to Search Skip to Content Skip to Footer
+Quick access to your daily points and offers Maximize your points with the Microsoft Rewards extension Quick access to your daily points and offers
+No thanks Add it now
+Skip to main content
+Microsoft
+Research
+
+    Our research
+    Programs & events
+    Blogs & podcasts
+    About
+    Sign up: Research Newsletter
+
+    All Microsoft
+
+Search Search Microsoft Research
+
+RESTler: Stateful REST API Fuzzing
+
+    Vaggelis Atlidakis
+    Patrice Godefroid
+    Marina Polishchuk
+
+ICSE 2019 | November 2019
+
+View Publication
+Download BibTex
+
+This paper introduces RESTler, the first stateful REST API fuzzer. RESTler analyzes the API specification of a cloud service and generates sequences of requests that automatically test the service through its API. RESTler generates test sequences by (1) inferring producer-consumer dependencies among request types declared in the specification (e.g., inferring that “a request B should be executed after request A” because B takes as an input a resource-id x produced by A) and by (2) analyzing dynamic feedback from responses observed during prior test executions in order to generate new tests (e.g., learning that “a request C after a request sequence A;B is refused by the service” and therefore avoiding this combination in the future). We present experimental results showing that these two techniques are necessary to thoroughly exercise a service under test while pruning the large search space of possible request sequences. We used RESTler to test GitLab, an open-source Git service, as well as several Microsoft Azure and Office365 cloud services. RESTler found 28 bugs in GitLab and several bugs in each of the Azure and Office365 cloud services tested so far. These bugs have been confirmed and fixed by the service owners.
+Publication Downloads
+RESTler-Fuzzer
+
+November 16, 2020
+
+RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+
+Download Data
+REST API Fuzz Testing
+
+November 16, 2020
+
+This self-hosted service developed for Azure, including its orchestration engine and security tools (including MSR's RESTler), enables developers to embed security tooling into their CI/CD workflows.
+
+Download Data
+Download PDF
+Groups
+
+    Research in Software Engineering (RiSE)
+    New Security Ventures
+
+Research Areas
+
+    Programming languages and software engineering
+    Security, privacy, and cryptography
+
+Fuzzing to improve the security and reliability of cloud services with RESTler
+
+In the past few years, cloud services have experienced tremendous growth. Most of these services are programmatically accessed through REST APIs. As the pace of development increases, both the APIs and service implementations are evolving rapidly. There is an urgent need for automated tools to test the reliability and security of cloud services that can keep up with today’s fast-paced service development and deployment—tools that provide the necessary level of automation and coverage for the growing number of APIs being deployed across the web. In this webinar, join Marina Polishchuk, a Software Engineer at Microsoft Research, in exploring how RESTler—the first stateful REST API fuzzer—can help efficiently find security and reliability bugs in cloud services. RESTler analyzes a Swagger/OpenAPI specification and produces a fuzzing grammar that contains information about requests and their dependencies. RESTler only fuzzes a request if all its dependent resources have been successfully created—this enables RESTler to achieve deeper coverage out of the box. RESTler also offers a pluggable model for checking security properties. RESTler is open source and available at its GitHub repository. Together, you'll explore: How to use RESTler to fuzz a cloud service The types of bugs that can be discovered through the REST API and their security impact How RESTler addresses the challenges of testing large, complex services through their REST APIs Resource list: RESTler Fuzzing tool (GitHub) RESTler: Stateful REST API Fuzzing (Publication) Checking Security Properties of Cloud Services REST APIs (Publication) Differential Regression Testing for REST APIs (Publication) Intelligent REST API Data Fuzzing (Publication) Marina Polishchuk (Researcher profile) *This on-demand webinar features a previously recorded Q&A session and open captioning. This webinar originally aired on May 26, 2021 Explore more Microsoft Research webinars: https://aka.ms/msrwebinars
+
+Follow us:
+
+    Follow on Twitter
+    Like on Facebook
+    Subscribe on Youtube
+    Follow on Instagram
+    Subscribe to our RSS feed
+
+Share this page:
+
+    Share on Twitter
+    Share on Facebook
+    Share on LinkedIn
+    Share on Reddit
+
+What's new
+
+    Surface Laptop 4
+    Surface Laptop Go
+    Surface Go 2
+    Surface Pro X
+    Surface Duo
+    Microsoft 365
+    Windows 10 apps
+    HoloLens 2
+
+Microsoft Store
+
+    Account profile
+    Download Center
+    Microsoft Store support
+    Returns
+    Order tracking
+    Virtual workshops and training
+    Microsoft Store Promise
+    Financing
+
+Education
+
+    Microsoft in education
+    Office for students
+    Office 365 for schools
+    Deals for students & parents
+    Microsoft Azure in education
+
+Enterprise
+
+    Azure
+    AppSource
+    Automotive
+    Government
+    Healthcare
+    Manufacturing
+    Financial services
+    Retail
+
+Developer
+
+    Microsoft Visual Studio
+    Windows Dev Center
+    Developer Center
+    Microsoft developer program
+    Channel 9
+    Microsoft 365 Dev Center
+    Microsoft 365 Developer Program
+    Microsoft Garage
+
+Company
+
+    Careers
+    About Microsoft
+    Company news
+    Privacy at Microsoft
+    Investors
+    Diversity and inclusion
+    Accessibility
+    Security
+
+    Sitemap
+    Contact Microsoft
+    Privacy
+    Manage cookies
+    Terms of use
+    Trademarks
+    Safety & eco
+    About our ads
+    © Microsoft 2021
+
+Notifications
