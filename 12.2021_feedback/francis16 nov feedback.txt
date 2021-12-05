@@ -1,0 +1,16 @@
+Strict adherence to the template is necessary!
+
+Target audiece also practitioners, more than 1 group.
+
+Put a link to the google sheet.
+
+Practical lessons are about my experiences. My own opinion but it should be useful for readers.
+
+Abstract, results -> various studies were selected, most of approaches use these methods nut also
+
+RQ1 in the put in the section title approach name + type of technique.
+RQ2 use the images/code to give examples.
+ADD colums for years for tables. Discuss in the discussion section about changes over the years.
+RQ3 add substeps and then compare them.
+
+Future work , how it is now. More opportunites for work.
