@@ -1,0 +1,2051 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="#item_8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yasin</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fatima</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wen</foaf:surname>
+                        <foaf:givenName>L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Afzal</foaf:surname>
+                        <foaf:givenName>W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Azhar</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torkar</foaf:surname>
+                        <foaf:givenName>R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_9"/>
+        <link:link rdf:resource="#item_10"/>
+        <link:link rdf:resource="#item_11"/>
+        <dc:subject>Bibliographies</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>empirical evaluation</dc:subject>
+        <dc:subject>Google</dc:subject>
+        <dc:subject>Google scholar</dc:subject>
+        <dc:subject>Google Scholar</dc:subject>
+        <dc:subject>gray</dc:subject>
+        <dc:subject>grey literature</dc:subject>
+        <dc:subject>Grey literature</dc:subject>
+        <dc:subject>grey systems</dc:subject>
+        <dc:subject>Guidelines</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <dc:subject>quality checklist</dc:subject>
+        <dc:subject>search engine</dc:subject>
+        <dc:subject>search engines</dc:subject>
+        <dc:subject>software engineering</dc:subject>
+        <dc:subject>Software engineering</dc:subject>
+        <dc:subject>Software Engineering</dc:subject>
+        <dc:subject>software reviews</dc:subject>
+        <dc:subject>systematic literature reviews</dc:subject>
+        <dc:subject>systematic mapping</dc:subject>
+        <dc:subject>systematic mapping study</dc:subject>
+        <dc:subject>Systematics</dc:subject>
+        <dc:subject>tertiary study</dc:subject>
+        <dc:title>On Using Grey Literature and Google Scholar in Systematic Literature Reviews in Software Engineering</dc:title>
+        <dcterms:abstract>Context: The inclusion of grey literature (GL) is important to remove publication bias while gathering available evidence regarding a certain topic. The number of systematic literature reviews (SLRs) in Software Engineering (SE) is increasing but we do not know about the extent of GL usage in these SLRs. Moreover, Google Scholar is rapidly becoming a search engine of choice for many researchers but the extent to which it can find the primary studies is not known. Objective: This tertiary study is an attempt to i) measure the usage of GL in SLRs in SE. Furthermore this study proposes strategies for categorizing GL and a quality checklist to use for GL in future SLRs; ii) explore if it is feasible to use only Google Scholar for finding scholarly articles for academic research. Method: We have conducted a systematic mapping study to measure the extent of GL usage in SE SLRs as well as to measure the feasibility of finding primary studies using Google Scholar. Results and conclusions: a) Grey Literature: 76.09% SLRs (105 out of 138) in SE have included one or more GL studies as primary studies. Among total primary studies across all SLRs (6307), 582 are classified as GL, making the frequency of GL citing as 9.23%. The intensity of GL use indicate that each SLR contains 5 primary studies on average (total intensity of GL use being 5.54). The ranking of GL tells us that conference papers are the most used form 43.3% followed by technical reports 28.52%. Universities, research institutes, labs and scientific societies together make up 67.7% of GL used, indicating that these are useful sources for searching GL. We additionally propose strategies for categorizing GL and criteria for evaluating GL quality, which can become a basis for more detailed guidelines for including GL in future SLRs. b) Google Scholar Results: The results show that Google Scholar was able to retrieve 96% of primary studies of these SLRs. Most of the primary studies that were not found using Google Scholar were from grey sources.</dcterms:abstract>
+        <dc:date>2020</dc:date>
+        <bib:pages>36226–36243</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>8</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2020.2971712</dc:identifier>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_9">
+       <rdf:value>&lt;p&gt;Conference Name: IEEE Access&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/Yasin et al. - 2020 - On Using Grey Literature and Google Scholar in Sys.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/8984351.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_12">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of 1st Asia-Pacific Software Engineering Conference</dc:title>
+                <dc:identifier>DOI 10.1109/APSEC.1994.465272</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yip</foaf:surname>
+                        <foaf:givenName>S. W. L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lam</foaf:surname>
+                        <foaf:givenName>T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:subject>Airports</dc:subject>
+        <dc:subject>application system age</dc:subject>
+        <dc:subject>Banking</dc:subject>
+        <dc:subject>changing user requirements</dc:subject>
+        <dc:subject>Computer industry</dc:subject>
+        <dc:subject>Costs</dc:subject>
+        <dc:subject>DP industry</dc:subject>
+        <dc:subject>enhancements</dc:subject>
+        <dc:subject>error correction</dc:subject>
+        <dc:subject>Error correction</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>Government</dc:subject>
+        <dc:subject>Hong Kong</dc:subject>
+        <dc:subject>Instruments</dc:subject>
+        <dc:subject>personnel</dc:subject>
+        <dc:subject>poor documentation</dc:subject>
+        <dc:subject>questionnaires</dc:subject>
+        <dc:subject>reviews</dc:subject>
+        <dc:subject>software industry</dc:subject>
+        <dc:subject>software life cycle cost</dc:subject>
+        <dc:subject>software maintenance</dc:subject>
+        <dc:subject>Software maintenance</dc:subject>
+        <dc:subject>software maintenance survey</dc:subject>
+        <dc:subject>software management</dc:subject>
+        <dc:subject>Software performance</dc:subject>
+        <dc:subject>south China</dc:subject>
+        <dc:subject>staff turnover</dc:subject>
+        <dc:subject>system documentation</dc:subject>
+        <dc:title>A software maintenance survey</dc:title>
+        <dcterms:abstract>We have conducted a survey of the state of software maintenance in Hong Kong, as the software industry in Hong Kong and south China is expanding. The survey instrument is derived from the previous work of Lientz and Swanson (1981) and Dekleva (1992). We sent out about 1000 questionnaires and received about 5% replies. Our results indicate that, in Hong Kong, about 66% of the total software life cycle cost is spent on software maintenance. The average application system is about 5 years old, consisting of 577 programs and 308000 lines of code. Making enhancements appears to be the most costly group of maintenance work (38% of all maintenance work undertaken), followed by error correction (16%). The most often cited problems in software maintenance are staff turnover, poor documentation and changing user requirements.\textless\textgreater</dcterms:abstract>
+        <dc:date>1994-12</dc:date>
+        <bib:pages>70–79</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings of 1st Asia-Pacific Software Engineering Conference</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/465272.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_14">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings. International Conference on Software Maintenance (Cat. No. 98CB36272)</dc:title>
+                <dc:identifier>DOI 10.1109/ICSM.1998.738518</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sousa</foaf:surname>
+                        <foaf:givenName>M. J. C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moreira</foaf:surname>
+                        <foaf:givenName>H. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_15"/>
+        <link:link rdf:resource="#item_16"/>
+        <link:link rdf:resource="#item_17"/>
+        <dc:subject>Error correction</dc:subject>
+        <dc:subject>software maintenance</dc:subject>
+        <dc:subject>Software maintenance</dc:subject>
+        <dc:subject>Software performance</dc:subject>
+        <dc:subject>Application software</dc:subject>
+        <dc:subject>characterisation</dc:subject>
+        <dc:subject>Computational efficiency</dc:subject>
+        <dc:subject>Documentation</dc:subject>
+        <dc:subject>field survey</dc:subject>
+        <dc:subject>Hardware</dc:subject>
+        <dc:subject>Portugal</dc:subject>
+        <dc:subject>Preventive maintenance</dc:subject>
+        <dc:subject>process models</dc:subject>
+        <dc:subject>software maintenance process</dc:subject>
+        <dc:subject>software process improvement</dc:subject>
+        <dc:subject>Software standards</dc:subject>
+        <dc:subject>Telephony</dc:subject>
+        <dc:title>A survey on the Software Maintenance Process</dc:title>
+        <dcterms:abstract>This research paper presents the results of a field survey for the characterisation of Software Maintenance Process in Portugal. It was concluded that the three biggest problems related to the Software Maintenance Process are: the lack of software maintenance process models, the lack of documentation of applications and the lack of time to satisfy the requests. Only 2.7% of the people who answered the questionnaire consider the software maintenance process very efficient; 70.2% consider it of a very low level of efficiency.</dcterms:abstract>
+        <dc:date>1998-11</dc:date>
+        <bib:pages>265–274</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Proceedings. International Conference on Software Maintenance (Cat. No. 98CB36272)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_15">
+       <rdf:value>&lt;p&gt;ISSN: 1063-6773&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/738518.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/17/Daniel Toll template.docx"/>
+        <dc:title>Daniel Toll template.docx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S016412120600197X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0164-1212"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brereton</foaf:surname>
+                        <foaf:givenName>Pearl</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kitchenham</foaf:surname>
+                        <foaf:givenName>Barbara A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Budgen</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Turner</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khalil</foaf:surname>
+                        <foaf:givenName>Mohamed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_19"/>
+        <link:link rdf:resource="#item_20"/>
+        <dc:subject>Empirical software engineering</dc:subject>
+        <dc:subject>Systematic literature review</dc:subject>
+        <dc:title>Lessons from applying the systematic literature review process within the software engineering domain</dc:title>
+        <dcterms:abstract>A consequence of the growing number of empirical studies in software engineering is the need to adopt systematic approaches to assessing and aggregating research outcomes in order to provide a balanced and objective summary of research evidence for a particular topic. The paper reports experiences with applying one such approach, the practice of systematic literature review, to the published studies relevant to topics within the software engineering domain. The systematic literature review process is summarised, a number of reviews being undertaken by the authors and others are described and some lessons about the applicability of this practice to software engineering are extracted. The basic systematic literature review process seems appropriate to software engineering and the preparation and validation of a review protocol in advance of a review activity is especially valuable. The paper highlights areas where some adaptation of the process to accommodate the domain-specific characteristics of software engineering is needed as well as areas where improvements to current software engineering infrastructure and practices would enhance its applicability. In particular, infrastructure support provided by software engineering indexing databases is inadequate. Also, the quality of abstracts is poor; it is usually not possible to judge the relevance of a study from a review of the abstract alone.</dcterms:abstract>
+        <dc:date>2007-04-01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S016412120600197X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-02-22</dcterms:dateSubmitted>
+        <bib:pages>571–583</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0164-1212">
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Software Performance</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>80</prism:volume>
+        <dc:title>Journal of Systems and Software</dc:title>
+        <dc:identifier>DOI 10.1016/j.jss.2006.07.009</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 0164-1212</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/Brereton et al. - 2007 - Lessons from applying the systematic literature re.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/20/S016412120600197X.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_25">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1939-3520"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_26"/>
+        <link:link rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_28"/>
+        <dc:subject>Antipatterns</dc:subject>
+        <dc:subject>design</dc:subject>
+        <dc:subject>detection</dc:subject>
+        <dc:subject>DSL</dc:subject>
+        <dc:subject>Maintenance engineering</dc:subject>
+        <dc:subject>quality of service</dc:subject>
+        <dc:subject>Quality of service</dc:subject>
+        <dc:subject>REST</dc:subject>
+        <dc:subject>SCA</dc:subject>
+        <dc:subject>service-based systems</dc:subject>
+        <dc:subject>Service-oriented architecture</dc:subject>
+        <dc:subject>Simple object access protocol</dc:subject>
+        <dc:subject>SOAP</dc:subject>
+        <dc:subject>software maintenance and evolution</dc:subject>
+        <dc:subject>specification</dc:subject>
+        <dc:subject>web services</dc:subject>
+        <dc:title>UniDoSA: The Unified Specification and Detection of Service Antipatterns</dc:title>
+        <dcterms:abstract>Service-based Systems (SBSs) are developed on top of diverse Service-Oriented Architecture (SOA) technologies or architectural styles. Like any other complex systems, SBSs face both functional and non-functional changes at the design or implementation-level. Such changes may degrade the design quality and quality of service (QoS) of the services in SBSs by introducing poor solutions-service antipatterns. The presence of service antipatterns in SBSs may hinder the future maintenance and evolution of SBSs. Assessing the quality of design and QoS of SBSs through the detection of service antipatterns may ease their maintenance and evolution. However, the current literature lacks a unified approach for modelling and evaluating the design of SBSs in term of design quality and QoS. To address this lack, this paper presents a meta-model unifying the three main service technologies: REST, SCA, and SOAP. Using the meta-model, it describes a unified approach, UniDoSA (Unified Specification and Detection of Service Antipatterns), supported by a framework, SOFA (Service Oriented Framework for Antipatterns), for modelling and evaluating the design quality and QoS of SBSs. We apply and validate UniDoSA on: (1) 18 RESTful APIs, (2) two SCA systems with more than 150 services, and (3) more than 120 SOAP Web services. With a high precision and recall, the detection results provide evidence of the presence of service antipatterns in SBSs, which calls for future studies of their impact on QoS.</dcterms:abstract>
+        <dc:date>2018-10</dc:date>
+        <z:shortTitle>UniDoSA</z:shortTitle>
+        <bib:pages>1024–1053</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1939-3520">
+        <prism:volume>45</prism:volume>
+        <dc:title>IEEE Transactions on Software Engineering</dc:title>
+        <dc:identifier>DOI 10.1109/TSE.2018.2819180</dc:identifier>
+        <prism:number>10</prism:number>
+        <dc:identifier>ISSN 1939-3520</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_26">
+        <rdf:value>&lt;p&gt;Conference Name: IEEE Transactions on Software Engineering&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/8325321.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_28">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/28/Palma et al. - 2019 - UniDoSA The Unified Specification and Detection o.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S095058491830226X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0950-5849"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brabra</foaf:surname>
+                        <foaf:givenName>Hayet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mtibaa</foaf:surname>
+                        <foaf:givenName>Achraf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petrillo</foaf:surname>
+                        <foaf:givenName>Fabio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merle</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sliman</foaf:surname>
+                        <foaf:givenName>Layth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaaloul</foaf:surname>
+                        <foaf:givenName>Walid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benatallah</foaf:surname>
+                        <foaf:givenName>Boualem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gargouri</foaf:surname>
+                        <foaf:givenName>Faïez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_30"/>
+        <link:link rdf:resource="#item_31"/>
+        <dc:subject>REST</dc:subject>
+        <dc:subject>Analysis</dc:subject>
+        <dc:subject>Anti-pattern</dc:subject>
+        <dc:subject>Cloud computing</dc:subject>
+        <dc:subject>Detection</dc:subject>
+        <dc:subject>OCCI</dc:subject>
+        <dc:subject>Ontology</dc:subject>
+        <dc:subject>Pattern</dc:subject>
+        <dc:subject>Specification</dc:subject>
+        <dc:title>On semantic detection of cloud API (anti)patterns</dc:title>
+        <dcterms:abstract>Context Open standards are urgently needed for enabling software interoperability in Cloud Computing. Open Cloud Computing Interface (OCCI) provides a set of best design principles to create interoperable REST management APIs. Although OCCI is the only standard addressing the management of any kind of cloud resources, it does not support a range of best principles related to REST design. This often worsens REST API quality by decreasing their understandability and reusability. Objective We aim at assisting cloud developers to enhance their REST management APIs by providing a compliance evaluation of OCCI and REST best principles and a recommendation support to comply with these principles. Method First, we leverage patterns and anti-patterns to drive respectively the good and poor practices of OCCI and REST best principles. Then, we propose a semantic-based approach for defining and detecting REST and OCCI (anti)patterns and providing a set of correction recommendations to comply with both REST and OCCI best principles. We validated this approach by applying it on cloud REST APIs and evaluating its accuracy, usefulness and extensibility. Results We found that our approach accurately detects OCCI and REST(anti)patterns and provides useful recommendations. According to the compliance results, we reveal that there is no widespread adoption of OCCI principles in existing APIs. In contrast, these APIs have reached an acceptable level of maturity regarding REST principles. Conclusion Our approach provides an effective and extensible technique for defining and detecting OCCI and REST (anti)patterns in Cloud REST APIs. Cloud software developers can benefit from our approach and defined principles to accurately evaluate their APIs from OCCI and REST perspectives. This contributes in designing interoperable, understandable, and reusable Cloud management APIs. Thank to the compliance analysis and the recommendation support, we also contribute to improving these APIs, which make them more straightforward.</dcterms:abstract>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S095058491830226X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-08</dcterms:dateSubmitted>
+        <bib:pages>65–82</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0950-5849">
+        <prism:volume>107</prism:volume>
+        <dc:title>Information and Software Technology</dc:title>
+        <dc:identifier>DOI 10.1016/j.infsof.2018.10.012</dc:identifier>
+        <dc:identifier>ISSN 0950-5849</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/Brabra et al. - 2019 - On semantic detection of cloud API (anti)patterns.pdf"/>
+        <dc:title>ScienceDirect Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_31">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/31/S095058491830226X.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-662-48616-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-662-48616-0</dc:identifier>
+                <dc:title>Service-Oriented Computing</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-662-48616-0_11</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonzalez-Huerta</foaf:surname>
+                        <foaf:givenName>Javier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tremblay</foaf:surname>
+                        <foaf:givenName>Guy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barros</foaf:surname>
+                        <foaf:givenName>Alistair</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grigori</foaf:surname>
+                        <foaf:givenName>Daniela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Narendra</foaf:surname>
+                        <foaf:givenName>Nanjangud C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dam</foaf:surname>
+                        <foaf:givenName>Hoa Khanh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_33"/>
+        <dc:subject>Antipatterns</dc:subject>
+        <dc:subject>REST</dc:subject>
+        <dc:subject>Detection</dc:subject>
+        <dc:subject>Patterns</dc:subject>
+        <dc:subject>Semantic analysis</dc:subject>
+        <dc:title>Are RESTful APIs Well-Designed? Detection of their Linguistic (Anti)Patterns</dc:title>
+        <dcterms:abstract>Identifier lexicon has a direct impact on software understandability and reusability and, thus, on the quality of the final software product. Understandability and reusability are two important characteristics of software quality. REST (REpresentational State Transfer) style is becoming a de facto standard adopted by many software organisations. The use of proper lexicon in RESTful APIs might make them easier to understand and reuse by client developers, and thus, would ease their adoption. Linguistic antipatterns represent poor practices in the naming, documentation, and choice of identifiers in the APIs as opposed to linguistic patterns that represent best practices. We present the DOLAR approach (Detection Of Linguistic Antipatterns in REST), which applies syntactic and semantic analyses for the detection of linguistic (anti)patterns in RESTful APIs. We provide detailed definitions of ten (anti)patterns and define and apply their detection algorithms on 15 widely-used RESTful APIs, including Facebook, Twitter, and YouTube. The results show that DOLAR can indeed detect linguistic (anti)patterns with high accuracy and that they do occur in major RESTful APIs.</dcterms:abstract>
+        <dc:date>2015</dc:date>
+        <z:shortTitle>Are RESTful APIs Well-Designed?</z:shortTitle>
+        <dc:description>event-place: Berlin, Heidelberg</dc:description>
+        <bib:pages>171–187</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_33">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/33/Palma et al. - 2015 - Are RESTful APIs Well-Designed Detection of their.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-319-94959-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Communications in Computer and Information Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-319-94959-8</dc:identifier>
+                <dc:title>Cloud Computing and Service Science</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-319-94959-8_16</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petrillo</foaf:surname>
+                        <foaf:givenName>Fabio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merle</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Donald</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muñoz</foaf:surname>
+                        <foaf:givenName>Víctor Méndez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cardoso</foaf:surname>
+                        <foaf:givenName>Jorge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helfert</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pahl</foaf:surname>
+                        <foaf:givenName>Claus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_35"/>
+        <dc:title>A Lexical and Semantical Analysis on REST Cloud Computing APIs</dc:title>
+        <dcterms:abstract>Cloud computing is a popular Internet-based computing paradigm that provides on-demand computational services and resources, generally offered by Cloud providers’ REpresentational State Transfer (REST) APIs. Developers use REST APIs by invoking these APIs by their names and, thus, the lexicons used in the APIs are important to ease the developers’ comprehension. In this paper, we study the lexicons and the linguistic (anti)patterns from 16 providers of REST Cloud Computing APIs. We observe that, although the 16 REST APIs describe the same domain (Cloud computing), contrary to what one might expect, their lexicons do not share a large number of common terms and 90% of the terms (3,561/3,947) are just used by one provider. Thus, the APIs are lexically heterogeneous and there is not a consensus on which terms to use in Cloud computing. Further, we observe that the majority of the URIs, 54%, follow the Contextualised Resource Names pattern, which is considered a good practice in REST API design. However, a majority of the URIs, 62.82%, suffer from the Non-pertinent Documentation antipattern. Thus, we present three main contributions: (1) a tooled approach, called CloudLex, for extracting and analysing REST Cloud computing lexicons; (2) our analysis of the terms used in 16 REST APIs in 59,677 term occurrences; (3) our analysis of the linguistic (anti)patterns in more than 23,000 URIs of the 142 services of the 16 Cloud providers. We also show that CloudLex has an average precision of 84.82%, recall of 63.57%, and F1-measure of 71.03% on one complete API, Docker Engine, which confirms the accuracy of our semantic analyses for the detection of linguistic (anti)patterns.</dcterms:abstract>
+        <dc:date>2018</dc:date>
+        <dc:description>event-place: Cham</dc:description>
+        <bib:pages>308–332</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/Petrillo et al. - 2018 - A Lexical and Semantical Analysis on REST Cloud Co.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_40">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>26</prism:volume>
+                <dc:title>International Journal of Cooperative Information Systems</dc:title>
+                <dc:identifier>DOI 10.1142/S0218843017420011</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonzalez-Huerta</foaf:surname>
+                        <foaf:givenName>Javier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Founi</foaf:surname>
+                        <foaf:givenName>Mohamed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tremblay</foaf:surname>
+                        <foaf:givenName>Guy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_41"/>
+        <dc:title>Semantic Analysis of RESTful APIs for the Detection of Linguistic Patterns and Antipatterns</dc:title>
+        <dcterms:abstract>Identifier lexicon may have a direct impact on software understandability and reusability and, thus, on the quality of the final software product. Understandability and reusability are two important characteristics of software quality. REpresentational State Transfer (REST) style is becoming a de facto standard adopted by software organizations to build their Web applications. Understandable and reusable Uniform Resource Identifers (URIs) are important to attract client developers of RESTful APIs because good URIs support the client developers to understand and reuse the APIs. Consequently, the use of proper lexicon in RESTful APIs has also a direct impact on the quality of Web applications that integrate these APIs. Linguistic antipatterns represent poor practices in the naming, documentation, and choice of identifiers in the APIs as opposed to linguistic patterns that represent the corresponding best practices. In this paper, we present the Semantic Analysis of RESTful APIs (SARA) approach that employs both syntactic and semantic analyses for the detection of linguistic patterns and antipatterns in RESTful APIs. We provide detailed definitions of 12 linguistic patterns and antipatterns and define and apply their detection algorithms on 18 widely-used RESTful APIs, including Facebook, Twitter, and Dropbox. Our detection results show that linguistic patterns and antipatterns do occur in major RESTful APIs in particular in the form of poor documentation practices. Those results also show that SARA can detect linguistic patterns and antipatterns with higher accuracy compared to its state-of-the-art approach — DOLAR.</dcterms:abstract>
+        <dc:date>2017-05-16</dc:date>
+        <bib:pages>1742001</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_41">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/41/Palma et al. - 2017 - Semantic Analysis of RESTful APIs for the Detectio.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-662-45391-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-662-45391-9</dc:identifier>
+                <dc:title>Service-Oriented Computing</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-662-45391-9_16</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dubois</foaf:surname>
+                        <foaf:givenName>Johann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Franch</foaf:surname>
+                        <foaf:givenName>Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ghose</foaf:surname>
+                        <foaf:givenName>Aditya K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewis</foaf:surname>
+                        <foaf:givenName>Grace A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhiri</foaf:surname>
+                        <foaf:givenName>Sami</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_43"/>
+        <dc:subject>Antipatterns</dc:subject>
+        <dc:subject>REST</dc:subject>
+        <dc:subject>Detection</dc:subject>
+        <dc:subject>Patterns</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Heuristics</dc:subject>
+        <dc:title>Detection of REST Patterns and Antipatterns: A Heuristics-Based Approach</dc:title>
+        <dcterms:abstract>REST (REpresentational State Transfer), relying on resources as its architectural unit, is currently a popular architectural choice for building Web-based applications. It is shown that design patterns—good solutions to recurring design problems—improve the design quality and facilitate maintenance and evolution of software systems. Antipatterns, on the other hand, are poor and counter-productive solutions. Therefore, the detection of REST (anti)patterns is essential for improving the maintenance and evolution of RESTful systems. Until now, however, no approach has been proposed. In this paper, we propose SODA-R (Service Oriented Detection for Antipatterns in REST), a heuristics-based approach to detect (anti)patterns in RESTful systems. We define detection heuristics for eight REST antipatterns and five patterns, and perform their detection on a set of 12 widely-used REST APIs including BestBuy, Facebook, and DropBox. The results show that SODA-R can perform the detection of REST (anti)patterns with high accuracy. We also found that Twitter and DropBox are not well-designed, i.e., contain more antipatterns. In contrast, Facebook and BestBuy are well-designed, i.e., contain more patterns and less antipatterns.</dcterms:abstract>
+        <dc:date>2014</dc:date>
+        <z:shortTitle>Detection of REST Patterns and Antipatterns</z:shortTitle>
+        <dc:description>event-place: Berlin, Heidelberg</dc:description>
+        <bib:pages>230–244</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/43/Palma et al. - 2014 - Detection of REST Patterns and Antipatterns A Heu.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-319-46295-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-319-46295-0</dc:identifier>
+                <dc:title>Service-Oriented Computing</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-319-46295-0_13</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brabra</foaf:surname>
+                        <foaf:givenName>Hayet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mtibaa</foaf:surname>
+                        <foaf:givenName>Achraf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sliman</foaf:surname>
+                        <foaf:givenName>Layth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaaloul</foaf:surname>
+                        <foaf:givenName>Walid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benatallah</foaf:surname>
+                        <foaf:givenName>Boualem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gargouri</foaf:surname>
+                        <foaf:givenName>Faiez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheng</foaf:surname>
+                        <foaf:givenName>Quan Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stroulia</foaf:surname>
+                        <foaf:givenName>Eleni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tata</foaf:surname>
+                        <foaf:givenName>Samir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhiri</foaf:surname>
+                        <foaf:givenName>Sami</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_45"/>
+        <dc:subject>Anti-pattern</dc:subject>
+        <dc:subject>OCCI</dc:subject>
+        <dc:subject>Ontology</dc:subject>
+        <dc:subject>Pattern</dc:subject>
+        <dc:subject>SQWRL</dc:subject>
+        <dc:subject>SWRL</dc:subject>
+        <dc:title>Detecting Cloud (Anti)Patterns: OCCI Perspective</dc:title>
+        <dcterms:abstract>Open Cloud Computing Interface (OCCI) follows a set of guidelines (i.e. best practices) to create interoperable APIs over Cloud resources. In this paper, we identify a set of patterns that must be followed and anti-patterns that should be avoided to comply with the OCCI guidelines. To automatically detect (anti)patterns, we propose a Semantic-based approach, relying on SWRL (Semantic Web Rule Language) rules and in SQWRL (Semantic Query-Enhanced Web Rule Language) queries to describe the (anti)patterns symptoms. An evaluation, conducted on real world Cloud service APIs, shows the feasibility of the proposed approach by assessing their compliance to OCCI standard.</dcterms:abstract>
+        <dc:date>2016</dc:date>
+        <z:shortTitle>Detecting Cloud (Anti)Patterns</z:shortTitle>
+        <dc:description>event-place: Cham</dc:description>
+        <bib:pages>202–218</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/45/Brabra et al. - 2016 - Detecting Cloud (Anti)Patterns OCCI Perspective.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_46">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>22</prism:volume>
+                <dc:title>International Journal of Cooperative Information Systems</dc:title>
+                <dc:identifier>DOI 10.1142/S0218843013410049</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nayrolles</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baudry</foaf:surname>
+                        <foaf:givenName>Benoit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jézéquel</foaf:surname>
+                        <foaf:givenName>Jean-Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_47"/>
+        <dc:title>SOA Antipatterns: an Approach for their Specification and Detection</dc:title>
+        <dcterms:abstract>Like any other large and complex software systems, Service-Based Systems (SBSs) must evolve to fit new user requirements and execution contexts. The changes resulting from the evolution of SBSs may degrade their design and quality of service (QoS) and may often cause the appearance of common poor solutions in their architecture, called antipatterns, in opposition to design patterns, which are good solutions to recurring problems. Antipatterns resulting from these changes may hinder the future maintenance and evolution of SBSs. The detection of antipatterns is thus crucial to assess the design and QoS of SBSs and facilitate their maintenance and evolution. However, methods and techniques for the detection of antipatterns in SBSs are still in their infancy despite their importance. In this paper, we introduce a novel and innovative approach supported by a framework for specifying and detecting antipatterns in SBSs. Using our approach, we specify 10 well-known and common antipatterns, including Multi Service and Tiny Service, and automatically generate their detection algorithms. We apply and validate the detection algorithms in terms of precision and recall two systems developed independently, (1) Home-Automation, an SBS with 13 services, and (2) FraSCAti, an open-source implementation of the Service Component Architecture (SCA) standard with more than 100 services. This validation demonstrates that our approach enables the specification and detection of Service Oriented Architecture (SOA) antipatterns with an average precision of 90% and recall of 97.5%.</dcterms:abstract>
+        <dc:date>2013-12-01</dc:date>
+        <z:shortTitle>SOA Antipatterns</z:shortTitle>
+        <bib:pages>1341004</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_47">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/47/Palma et al. - 2013 - SOA Antipatterns an Approach for their Specificat.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-3-319-38790-1">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rodriguez</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baez</foaf:surname>
+                        <foaf:givenName>Marcos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Daniel</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Casati</foaf:surname>
+                        <foaf:givenName>Fabio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trabucco</foaf:surname>
+                        <foaf:givenName>Juan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canali</foaf:surname>
+                        <foaf:givenName>Luigi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Percannella</foaf:surname>
+                        <foaf:givenName>Gianraffaele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_49"/>
+        <link:link rdf:resource="#item_50"/>
+        <dc:title>REST APIs: A Large-Scale Analysis of Compliance with Principles and Best Practices</dc:title>
+        <dcterms:abstract>Quickly and dominantly, REST APIs have spread over the Web and percolated into modern software development practice, especially in the Mobile Internet where they conveniently enable offloading data and computations onto cloud services. We analyze more than 78 GB of HTTP traffic collected by Italy’s biggest Mobile Internet provider over one full day and study how big the trend is in practice, how it changed the traffic that is generated by applications, and how REST APIs are implemented in practice. The analysis provides insight into the compliance of state-of-the-art APIs with theoretical Web engineering principles and guidelines, knowledge that affects how applications should be developed to be scalable and robust. The perspective is that of the Mobile Internet.</dcterms:abstract>
+        <dc:date>2016-06-06</dc:date>
+        <z:shortTitle>REST APIs</z:shortTitle>
+        <dc:description>DOI: 10.1007/978-3-319-38791-8_2</dc:description>
+        <dc:identifier>ISBN 978-3-319-38790-1</dc:identifier>
+        <z:numPages>21</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_49">
+       <rdf:value>&lt;p&gt;Pages: 39&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/50/Rodriguez et al. - 2016 - REST APIs A Large-Scale Analysis of Compliance wi.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_51">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-319-46295-0</dc:identifier>
+                <dc:title>Service-Oriented Computing</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-319-46295-0_10</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Petrillo</foaf:surname>
+                        <foaf:givenName>Fabio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merle</foaf:surname>
+                        <foaf:givenName>Philippe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheng</foaf:surname>
+                        <foaf:givenName>Quan Z.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stroulia</foaf:surname>
+                        <foaf:givenName>Eleni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tata</foaf:surname>
+                        <foaf:givenName>Samir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhiri</foaf:surname>
+                        <foaf:givenName>Sami</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_52"/>
+        <dc:subject>Cloud Computing</dc:subject>
+        <dc:subject>Cloud Platform</dc:subject>
+        <dc:subject>Cloud Provider</dc:subject>
+        <dc:subject>Cloud Service</dc:subject>
+        <dc:subject>Software Define Network</dc:subject>
+        <dc:title>Are REST APIs for Cloud Computing Well-Designed? An Exploratory Study</dc:title>
+        <dcterms:abstract>Cloud computing is currently the most popular model to offer and access computational resources and services. Many cloud providers use the REST architectural style (Representational State Transfer) for offering such computational resources. However, these cloud providers face challenges when designing and exposing REST APIs that are easy to handle by end-users and/or developers. Yet, they benefit from best practices to help them design understandable and reusable REST APIs.However, these best practices are scattered in the literature and they have not be studied systematically on real-world APIs. Consequently, we propose two contributions. In our first contribution, we survey the literature and compile a catalog of 73 best practices in the design of REST APIs making APIs more understandable and reusable. In our second contribution, we perform a study of three different and well-known REST APIs from three cloud providers to investigate how their APIs are offered and accessed. These cloud providers are Google Cloud Platform, OpenStack, and Open Cloud Computing Interface (OCCI). In particular, we evaluate the coverage of the features provided by the REST APIs of these cloud providers and their conformance with the best practices for REST APIs design.Our results show that Google Cloud follows 66 % (48/73), OpenStack follows 62 % (45/73), and OCCI 1.2 follows 56 % (41/73) of the best practices. Second, although these numbers are not necessarily high, partly because of the strict and precise specification of best practices, we showed that cloud APIs reach an acceptable level of maturity.</dcterms:abstract>
+        <dc:date>2016</dc:date>
+        <z:shortTitle>Are REST APIs for Cloud Computing Well-Designed?</z:shortTitle>
+        <dc:description>event-place: Cham</dc:description>
+        <bib:pages>157–170</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_52">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/52/Petrillo et al. - 2016 - Are REST APIs for Cloud Computing Well-Designed A.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-642-34321-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-642-34321-6</dc:identifier>
+                <dc:title>Service-Oriented Computing</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-642-34321-6_1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Springer</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nayrolles</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conseil</foaf:surname>
+                        <foaf:givenName>Benjamin Joyen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baudry</foaf:surname>
+                        <foaf:givenName>Benoit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jézéquel</foaf:surname>
+                        <foaf:givenName>Jean-Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Chengfei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ludwig</foaf:surname>
+                        <foaf:givenName>Heiko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Toumani</foaf:surname>
+                        <foaf:givenName>Farouk</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Qi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_54"/>
+        <dc:subject>Antipatterns</dc:subject>
+        <dc:subject>Quality of service</dc:subject>
+        <dc:subject>Detection</dc:subject>
+        <dc:subject>Specification</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>Service based systems</dc:subject>
+        <dc:subject>Software evolution and maintenance</dc:subject>
+        <dc:title>Specification and Detection of SOA Antipatterns</dc:title>
+        <dcterms:abstract>Like any other complex software system, Service Based Systems (SBSs) must evolve to fit new user requirements and execution contexts. The changes resulting from the evolution of SBSs may degrade their design and quality of service (QoS) and may often cause the appearance of common poor solutions, called Antipatterns. Antipatterns resulting from these changes also hinder the future maintenance and evolution of SBSs. The automatic detection of antipatterns is thus important to assess the design and QoS of SBSs and ease their maintenance and evolution. However, methods and techniques for the detection of antipatterns in SBSs are still in their infancy despite their importance. In this paper, we introduce a novel and innovative approach supported by a framework for specifying and detecting antipatterns in SBSs. Using our approach, we specify 10 well-known and common antipatterns, including Multi Service and Tiny Service, and we automatically generate their detection algorithms. We apply and validate the detection algorithms in terms of precision and recall on Home-Automation, an SBS developed independently. This validation demonstrates that our approach enables the specification and detection of SOA antipatterns with the precision of more than 90% and the recall of 100%.</dcterms:abstract>
+        <dc:date>2012</dc:date>
+        <dc:description>event-place: Berlin, Heidelberg</dc:description>
+        <bib:pages>1–16</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/54/Moha et al. - 2012 - Specification and Detection of SOA Antipatterns.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_55">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2014 28th International Conference on Advanced Information Networking and Applications Workshops</dc:title>
+                <dc:identifier>DOI 10.1109/WAINA.2014.153</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Li</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luo</foaf:surname>
+                        <foaf:givenName>Min</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chou</foaf:surname>
+                        <foaf:givenName>Wu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_56"/>
+        <link:link rdf:resource="#item_57"/>
+        <dc:subject>Computer architecture</dc:subject>
+        <dc:subject>Controller</dc:subject>
+        <dc:subject>Firewalls (computing)</dc:subject>
+        <dc:subject>Hypertext Driven</dc:subject>
+        <dc:subject>Media</dc:subject>
+        <dc:subject>Northbound API</dc:subject>
+        <dc:subject>OpenStack</dc:subject>
+        <dc:subject>Ports (Computers)</dc:subject>
+        <dc:subject>Protocols</dc:subject>
+        <dc:subject>Quantum</dc:subject>
+        <dc:subject>REST API</dc:subject>
+        <dc:subject>SDN</dc:subject>
+        <dc:subject>Servers</dc:subject>
+        <dc:subject>XML</dc:subject>
+        <dc:title>REST API Design Patterns for SDN Northbound API</dc:title>
+        <dcterms:abstract>REST architectural style gains increasing popularity in the networking protocol design, and it has become a prevalent choice for northbound API of Software-Defined Networking (SDN). This paper addresses many critical issues in RESTful networking protocol design, and presents a framework on how a networking protocol can be designed in a truly RESTful manner, making it towards a service oriented data networking. In particular, we introduce the HTTP content negotiation mechanism which allows clients to select different representation formats from the same resource URI. Most importantly, we present a hypertext-driven approach, so that hypertext links are defined between REST resources for the networking protocol to guide clients to identify the right resources rather than relying on fixed resource URIs. The advantages of our approach are verified in two folds. First, we show how to apply our approach to fix REST design problems in some existing northbound networking APIs, and then we show how to design a RESTful northbound API of SDN in the context of OpenStack. We implemented our proposed approach in the northbound REST API of SOX, a generalized SDN controller, and the benefits of the proposed approach are experimentally verified.</dcterms:abstract>
+        <dc:date>2014-05</dc:date>
+        <bib:pages>358–365</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 28th International Conference on Advanced Information Networking and Applications Workshops</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_56">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/56/Zhou et al. - 2014 - REST API Design Patterns for SDN Northbound API.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_57">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/57/6844664.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_63">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)</dc:title>
+                <dc:identifier>DOI 10.1109/ICSME.2018.00012</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aghajani</foaf:surname>
+                        <foaf:givenName>Emad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nagy</foaf:surname>
+                        <foaf:givenName>Csaba</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bavota</foaf:surname>
+                        <foaf:givenName>Gabriele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lanza</foaf:surname>
+                        <foaf:givenName>Michele</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_64"/>
+        <link:link rdf:resource="#item_65"/>
+        <dc:subject>Documentation</dc:subject>
+        <dc:subject>Application Programming Interfaces (APIs)</dc:subject>
+        <dc:subject>Computer bugs</dc:subject>
+        <dc:subject>Empirical Study</dc:subject>
+        <dc:subject>Libraries</dc:subject>
+        <dc:subject>Linguistic Antipatterns</dc:subject>
+        <dc:subject>Linguistics</dc:subject>
+        <dc:subject>Tools</dc:subject>
+        <dc:subject>Usability</dc:subject>
+        <dc:title>A Large-Scale Empirical Study on Linguistic Antipatterns Affecting APIs</dc:title>
+        <dcterms:abstract>The concept of monolithic stand-alone software systems developed completely from scratch has become obsolete, as modern systems nowadays leverage the abundant presence of Application Programming Interfaces (APIs) developed by third parties, which leads on the one hand to accelerated development, but on the other hand introduces potentially fragile dependencies on external resources. In this context, the design of any API strongly influences how developers write code utilizing it. A wrong design decision like a poorly chosen method name can lead to a steeper learning curve, due to misunderstandings, misuse and eventually bug-prone code in the client projects using the API. It is not unfrequent to find APIs with poorly expressive or misleading names, possibly lacking appropriate documentation. Such issues can manifest in what have been defined in the literature as Linguistic Antipatterns (LAs), i.e., inconsistencies among the naming, documentation, and implementation of a code entity. While previous studies showed the relevance of LAs for software developers, their impact on (developers of) client projects using APIs affected by LAs has not been investigated. This paper fills this gap by presenting a large-scale study conducted on 1.6k releases of popular Maven libraries, 14k open-source Java projects using these libraries, and 4.4k questions related to the investigated APIs asked on Stack Overflow. In particular, we investigate whether developers of client projects have higher chances of introducing bugs when using APIs affected by LAs and if these trigger more questions on Stack Overflow as compared to non-affected APIs.</dcterms:abstract>
+        <dc:date>2018-09</dc:date>
+        <bib:pages>25–35</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_64">
+       <rdf:value>&lt;p&gt;ISSN: 2576-3148&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/Aghajani et al. - 2018 - A Large-Scale Empirical Study on Linguistic Antipa.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_66">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2013 20th Working Conference on Reverse Engineering (WCRE)</dc:title>
+                <dc:identifier>DOI 10.1109/WCRE.2013.6671307</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nayrolles</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valtchev</foaf:surname>
+                        <foaf:givenName>Petko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_67"/>
+        <link:link rdf:resource="#item_68"/>
+        <dc:subject>Service-oriented architecture</dc:subject>
+        <dc:subject>Association rules</dc:subject>
+        <dc:subject>Couplings</dc:subject>
+        <dc:subject>Detection algorithms</dc:subject>
+        <dc:subject>Measurement</dc:subject>
+        <dc:subject>Mining Execution Traces</dc:subject>
+        <dc:subject>Scattering</dc:subject>
+        <dc:subject>Sequential Association Rules</dc:subject>
+        <dc:subject>Service Oriented Architecture</dc:subject>
+        <dc:subject>SOA Antipatterns</dc:subject>
+        <dc:title>Improving SOA antipatterns detection in Service Based Systems by mining execution traces</dc:title>
+        <dcterms:abstract>Service Based Systems (SBSs), like other software systems, evolve due to changes in both user requirements and execution contexts. Continuous evolution could easily deteriorate the design and reduce the Quality of Service (QoS) of SBSs and may result in poor design solutions, commonly known as SOA antipatterns. SOA antipatterns lead to a reduced maintainability and reusability of SBSs. It is therefore important to first detect and then remove them. However, techniques for SOA antipattern detection are still in their infancy, and there are hardly any tools for their automatic detection. In this paper, we propose a new and innovative approach for SOA antipattern detection called SOMAD (Service Oriented Mining for Antipattern Detection) which is an evolution of the previously published SODA (Service Oriented Detection For Antpatterns) tool. SOMAD improves SOA antipattern detection by mining execution traces: It detects strong associations between sequences of service/method calls and further filters them using a suite of dedicated metrics. We first present the underlying association mining model and introduce the SBS-oriented rule metrics. We then describe a validating application of SOMAD to two independently developed SBSs. A comparison of our new tool with SODA reveals superiority of the former: Its precision is better by a margin ranging from 2.6% to 16.67% while the recall remains optimal at 100% and the speed is significantly reduces (2.5+ times on the same test subjects).</dcterms:abstract>
+        <dc:date>2013-10</dc:date>
+        <bib:pages>321–330</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 20th Working Conference on Reverse Engineering (WCRE)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_67">
+       <rdf:value>&lt;p&gt;ISSN: 2375-5369&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_68">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/68/Nayrolles et al. - 2013 - Improving SOA antipatterns detection in Service Ba.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_69">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2017 IEEE International Conference on Software Architecture (ICSA)</dc:title>
+                <dc:identifier>DOI 10.1109/ICSA.2017.40</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haupt</foaf:surname>
+                        <foaf:givenName>Florian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leymann</foaf:surname>
+                        <foaf:givenName>Frank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scherer</foaf:surname>
+                        <foaf:givenName>Anton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vukojevic-Haupt</foaf:surname>
+                        <foaf:givenName>Karolina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_70"/>
+        <link:link rdf:resource="#item_71"/>
+        <dc:subject>Google</dc:subject>
+        <dc:subject>REST</dc:subject>
+        <dc:subject>Cloud computing</dc:subject>
+        <dc:subject>Protocols</dc:subject>
+        <dc:subject>Measurement</dc:subject>
+        <dc:subject>analysis</dc:subject>
+        <dc:subject>Analytical models</dc:subject>
+        <dc:subject>Best practices</dc:subject>
+        <dc:subject>interface description language</dc:subject>
+        <dc:subject>Transforms</dc:subject>
+        <dc:title>A Framework for the Structural Analysis of REST APIs</dc:title>
+        <dcterms:abstract>Today, REST APIs have established as a means for realizing distributed systems and are supposed to gain even more importance in the context of Cloud Computing, Internet of Things, and Microservices. Nevertheless, many existing REST APIs are known to be not well-designed, resulting in the absence of desirable quality attributes that truly RESTful systems entail. Although existing analysis show, that many REST APIs are not fully REST compliant, it is still an open issue how to improve this deficit and where to start. In this work, we introduce a framework for the structural analysis of REST APIs based on their description documents, as this allows for a comprehensive, well-structured analysis approach that also includes analyzing the corresponding API description languages. A first validation builds on a set of 286 real world API descriptions available as Swagger documents, and comprises their transformation into a canonical metamodel for REST APIs as well as a metrics-based analysis and discussion of their structural characteristics with respect to compliance with the REST architectural style.</dcterms:abstract>
+        <dc:date>2017-04</dc:date>
+        <bib:pages>55–58</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2017 IEEE International Conference on Software Architecture (ICSA)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_70">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/70/Haupt et al. - 2017 - A Framework for the Structural Analysis of REST AP.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_71">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/71/7930199.html"/>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_72">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)</dc:title>
+                <dc:identifier>DOI 10.1109/MOBILESoft.2019.00020</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belkhir</foaf:surname>
+                        <foaf:givenName>Abdelkarim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abdellatif</foaf:surname>
+                        <foaf:givenName>Manel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tighilt</foaf:surname>
+                        <foaf:givenName>Rafik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beaudry</foaf:surname>
+                        <foaf:givenName>Éric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_73"/>
+        <dc:subject>Google</dc:subject>
+        <dc:subject>REST</dc:subject>
+        <dc:subject>XML</dc:subject>
+        <dc:subject>Libraries</dc:subject>
+        <dc:subject>Tools</dc:subject>
+        <dc:subject>Best practices</dc:subject>
+        <dc:subject>Android</dc:subject>
+        <dc:subject>API</dc:subject>
+        <dc:subject>Batteries</dc:subject>
+        <dc:subject>Client</dc:subject>
+        <dc:subject>Mobile</dc:subject>
+        <dc:subject>Mobile applications</dc:subject>
+        <dc:subject>Practices</dc:subject>
+        <dc:title>An Observational Study on the State of REST API Uses in Android Mobile Applications</dc:title>
+        <dcterms:abstract>REST is by far the most commonly-used style for designing APIs, especially for mobile platforms. Indeed, REST APIs are well suited for providing content to apps running on small devices, like smart-phones and tablets. Several research works studied REST APIs development practices for mobile apps. However, little is known about how Android apps use/consume these APIs in practice through HTTP client libraries. Consequently, we propose an observational study on the state of the practice of REST APIs use in Android mobile apps. We (1) build a catalogue of Android REST mobile clients practices; (2) define each of these practices through a number of heuristics based on their potential implementations in Android apps, and (3) propose an automatic approach to detect these practices. We analyze 1,595 REST mobile apps downloaded from the Google Play Store and mine thousands of StackOverflow posts to study REST APIs uses in Android apps. We observe that developers have always used HttpURLConnection class for REST APIs implementation in Android apps. However, since the apparition of REST third-party libraries such as Okhttp, Retrofit and Google Volley, Android REST clients have been increasingly relying on the facilities offered by these libraries. Also, we observe that developers used to ignore some good practices of REST APIs uses in Android apps. Such practices are the use of HTTP third-party libraries, caching responses, timeout management, and error handling. Moreover, we report that only two good practices are widely considered by Android developers when implementing their mobile apps. These practices are network connectivity awareness and JSON vs. XML response parsing. We also find that Retrofit is the most targeted third-party HTTP client library by Android developers because of its ease of use and provided features. Thus, we conclude that service providers must strive to make their libraries as simple as possible while mobile-service consumers should consider existing libraries to benefit from their features, such as asynchronous requests, awareness to connectivity, timeout management, and cached responses.</dcterms:abstract>
+        <dc:date>2019-05</dc:date>
+        <bib:pages>66–75</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_73">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/73/Belkhir et al. - 2019 - An Observational Study on the State of REST API Us.pdf"/>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-3-319-69035-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Lecture Notes in Computer Science</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-319-69035-3</dc:identifier>
+                <dc:title>Service-Oriented Computing</dc:title>
+                <dc:identifier>DOI 10.1007/978-3-319-69035-3_45</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oumaziz</foaf:surname>
+                        <foaf:givenName>Mohamed A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belkhir</foaf:surname>
+                        <foaf:givenName>Abdelkarim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vacher</foaf:surname>
+                        <foaf:givenName>Tristan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beaudry</foaf:surname>
+                        <foaf:givenName>Eric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blanc</foaf:surname>
+                        <foaf:givenName>Xavier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Falleri</foaf:surname>
+                        <foaf:givenName>Jean-Rémy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maximilien</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vallecillo</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Jianmin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oriol</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:subject>REST API</dc:subject>
+        <dc:subject>Android</dc:subject>
+        <dc:subject>Mobile applications</dc:subject>
+        <dc:subject>Empirical study</dc:subject>
+        <dc:subject>Rest services</dc:subject>
+        <dc:title>Empirical Study on REST APIs Usage in Android Mobile Applications</dc:title>
+        <dcterms:abstract>A large set of mobile applications (apps) heavily rely on services accessible through the Web via REST APIs. However, the way mobile apps use services in practice has never been studied. In this paper, we perform an empirical study in the Android ecosystem in which we analyze 500 popular apps and 15 popular services. We also conducted an online survey to identify best practices for Android developers. Our results show that they generally favor invoking services by using official service libraries instead of invoking services with a generic HTTP client. We also present which good practices service libraries should implement.</dcterms:abstract>
+        <dc:date>2017</dc:date>
+        <dc:description>event-place: Cham</dc:description>
+        <bib:pages>614–622</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/75/Oumaziz et al. - 2017 - Empirical Study on REST APIs Usage in Android Mobi.pdf"/>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_76">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <dc:title>International Journal of Advanced Trends in Computer Science and Engineering</dc:title>
+                <dc:identifier>DOI 10.30534/ijatcse/2019/05852019</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alshraideh</foaf:surname>
+                        <foaf:givenName>Fuad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katuk</foaf:surname>
+                        <foaf:givenName>Norliza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_77"/>
+        <dc:title>Soap and Restful Web Service Anti-Patterns: A Scoping Review</dc:title>
+        <dcterms:abstract>Web services provide a uniform framework to achieve a high level of interaction between distributed heterogeneous software systems and data resources shared over the Internet. Producing a well-designed web service is significant because it leads to a more understandable service and a higher level of interaction and leads to effective software maintainability. However, web service is suffering from a poor design problem named anti-patterns. Analysis of the literature returned a plethora of studies on anti-patterns that caused difficulties for developers to synthesize and summarized the possible types of anti-patterns and further comprehend each of them. Due to this limitation, this paper aims to provide organized literature on the types of anti-patterns found in web services. A scoping review was conducted by searching scholarly documents, analyzing, and classified them based on their anti-pattern types. The review provided in this paper could be used as a guide for developers to identify the anti-patterns that could be found in web services.</dcterms:abstract>
+        <dc:date>2019-10-05</dc:date>
+        <z:shortTitle>Soap and Restful Web Service Anti-Patterns</z:shortTitle>
+        <bib:pages>1831–1840</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_77">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/77/Alshraideh and Katuk - 2019 - SOAP and RESTful web service anti-patterns A scop.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_78">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keele et al.</foaf:surname>
+                        <foaf:givenName>Keele et</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_79"/>
+        <dc:title>Guidelines for performing Systematic Literature Reviews in Software Engineering</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_79">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/79/Guidelines for performing Systematic Literature Reviews in Software Engineering.pdf"/>
+        <dc:title>Guidelines for performing Systematic Literature Reviews in Software Engineering.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0950584914000354">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09505849"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Achimugu</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Selamat</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ibrahim</foaf:surname>
+                        <foaf:givenName>Roliana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mahrin</foaf:surname>
+                        <foaf:givenName>Mohd Naz’ri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_86"/>
+        <dc:title>A systematic literature review of software requirements prioritization research</dc:title>
+        <dcterms:abstract>Objective: The purpose of this study is to identify and analyze existing prioritization techniques in the context of the formulated research questions.
+Method: Search terms with relevant keywords were used to identify primary studies that relate requirements prioritization classiﬁed under journal articles, conference papers, workshops, symposiums, book chapters and IEEE bulletins.
+Results: 73 Primary studies were selected from the search processes. Out of these studies; 13 were journal articles, 35 were conference papers and 8 were workshop papers. Furthermore, contributions from symposiums as well as IEEE bulletins were 2 each while the total number of book chapters amounted to 13.
+Conclusion: Prioritization has been signiﬁcantly discussed in the requirements engineering domain. However, it was generally discovered that, existing prioritization techniques suffer from a number of limitations which includes: lack of scalability, methods of dealing with rank updates during requirements evolution, coordination among stakeholders and requirements dependency issues. Also, the applicability of existing techniques in complex and real setting has not been reported yet.</dcterms:abstract>
+        <dc:date>06/2014</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0950584914000354</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-08-01 21:53:24</dcterms:dateSubmitted>
+        <bib:pages>568-585</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09505849">
+        <prism:volume>56</prism:volume>
+        <dc:title>Information and Software Technology</dc:title>
+        <dc:identifier>DOI 10.1016/j.infsof.2014.02.001</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Information and Software Technology</dcterms:alternative>
+        <dc:identifier>ISSN 09505849</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_86">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/86/Achimugu et al. - 2014 - A systematic literature review of software require.pdf"/>
+        <dc:title>Achimugu et al. - 2014 - A systematic literature review of software require.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1002/spe.2639">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:00380644"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sabir</foaf:surname>
+                        <foaf:givenName>Fatima</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palma</foaf:surname>
+                        <foaf:givenName>Francis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rasool</foaf:surname>
+                        <foaf:givenName>Ghulam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guéhéneuc</foaf:surname>
+                        <foaf:givenName>Yann-Gaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moha</foaf:surname>
+                        <foaf:givenName>Naouel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_87"/>
+        <dc:title>A systematic literature review on the detection of smells and their evolution in object-oriented and service-oriented systems</dc:title>
+        <dcterms:abstract>This systematic literature review paper investigates the key techniques employed to identify smells in different paradigms of software engineering from object-oriented (OO) to service-oriented (SO). In this review, we want to identify commonalities and differences in the identification of smells in OO and SO systems. Our research method relies on an automatic search from the relevant digital libraries to find the studies published since January 2000 on smells until December 2017. We have conducted a pilot and author-based search that allows us to select the 78 most relevant studies after applying inclusion and exclusion criteria. We evaluated the studies based on the smell detection techniques and the evolution of different methodologies in OO and SO. Among the 78 relevant studies selected, we have identified six different studies in which linguistic source code analysis received less attention from the researchers as compared to the static source code analysis. Smells like the yo-yo problem, unnamed coupling, intensive coupling, and interface bloat received considerably less attention in the literature. We also identified a catalog of 30 smells infrequently reported for SO systems and that require further attention. Moreover, a suite of 20 smells reported for SO systems can also be detected using static source code metrics in OO. Finally, our review highlighted three major research trends that are further subdivided into 20 research patterns initiating the detection of smells toward their correction.</dcterms:abstract>
+        <dc:date>01/2019</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1002/spe.2639</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-08-01 21:53:26</dcterms:dateSubmitted>
+        <bib:pages>3-39</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:00380644">
+        <prism:volume>49</prism:volume>
+        <dc:title>Software: Practice and Experience</dc:title>
+        <dc:identifier>DOI 10.1002/spe.2639</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Softw: Pract Exper</dcterms:alternative>
+        <dc:identifier>ISSN 00380644</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_87">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/87/Sabir et al. - 2019 - A systematic literature review on the detection of.pdf"/>
+        <dc:title>Sabir et al. - 2019 - A systematic literature review on the detection of.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1108/IJWIS-08-2020-0052">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1744-0084"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alshraiedeh</foaf:surname>
+                        <foaf:givenName>Fuad Sameh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katuk</foaf:surname>
+                        <foaf:givenName>Norliza</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_91"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Quality of service</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Service-oriented architecture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Anti-patterns</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Distributed computer systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Information services</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Resource-oriented architecture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Schema</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Semantic</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Semantic Web</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Software architecture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Web services</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A URI parsing technique and algorithm for anti-pattern detection in RESTful Web services</dc:title>
+        <dcterms:abstract>Purpose Many REpresentational State Transfer (RESTful) Web services suffered from anti-patterns problem, which may diminish the sustainability of the services. The anti-patterns problem could happen in the code of the programme or the uniform resource identifiers (URIs) of RESTful Web services. This study aims to address the problem by proposing a technique and an algorithm for detecting anti-patterns in RESTful Web services. Specifically, the technique is designed based on URIs parsing process. Design/methodology/approach The study was conducted following the design science research process, which has six activities, namely, identifying problems, identifying solutions, design the solutions, demonstrate the solution, evaluation and communicate the solution. The proposed technique was embedded in an algorithm and evaluated in four phases covering the process of extracting the URIs, implementing the anti-pattern detection algorithm, detecting the anti-patterns and validating the results. Findings The results of the study suggested an acceptable level of accuracy for the anti-patterns detection with 82.30% of precision, 87.86% of recall and 84.93% of F-measure. Practical implications The technique and the algorithm can be used by developers of RESTful Web services to detect possible anti-pattern occurrences in the service-based systems. Originality/value The technique is personalised to detect amorphous URI and ambiguous name anti-patterns in which it scans the Web service URIs using specified rules and compares them with pre-determined syntax and corpus.</dcterms:abstract>
+        <dc:date>2020-01-01</dc:date>
+        <z:libraryCatalog>Emerald Insight</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1108/IJWIS-08-2020-0052</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-16 01:06:14</dcterms:dateSubmitted>
+        <dc:description>Publisher: Emerald Publishing Limited</dc:description>
+        <bib:pages>1-17</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1744-0084">
+        <prism:volume>17</prism:volume>
+        <dc:title>International Journal of Web Information Systems</dc:title>
+        <dc:identifier>DOI 10.1108/IJWIS-08-2020-0052</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 1744-0084</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/91/Alshraiedeh and Katuk - 2020 - A URI parsing technique and algorithm for anti-pat.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emerald.com/insight/content/doi/10.1108/IJWIS-08-2020-0052/full/pdf?title=a-uri-parsing-technique-and-algorithm-for-anti-pattern-detection-in-restful-web-services</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-10-16 01:06:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Selected papers</dc:title>
+        <dcterms:hasPart rdf:resource="#item_25"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S095058491830226X"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-662-48616-0"/>
+        <dcterms:hasPart rdf:resource="#item_40"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-662-45391-9"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-319-46295-0"/>
+        <dcterms:hasPart rdf:resource="#item_72"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1108/IJWIS-08-2020-0052"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>SLRs</dc:title>
+        <dcterms:hasPart rdf:resource="#item_76"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0950584914000354"/>
+        <dcterms:hasPart rdf:resource="https://onlinelibrary.wiley.com/doi/10.1002/spe.2639"/>
+    </z:Collection>
+</rdf:RDF>

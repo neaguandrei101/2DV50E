@@ -1,0 +1,771 @@
+Skip to Main Content
+
+    IEEE.org
+    IEEE Xplore
+    IEEE-SA
+    IEEE Spectrum
+    More Sites
+
+SUBSCRIBE
+
+    Cart 
+    Create Account
+    Personal Sign In
+
+IEEE Xplore logo - Link to home
+
+    Browse
+    My Settings
+    Help
+
+Institutional Sign In
+IEEE logo - Link to IEEE main site homepage
+ADVANCED SEARCH
+Journals & Magazines > IEEE Access > Volume: 8
+On Using Grey Literature and Google Scholar in Systematic Literature Reviews in Software Engineering
+Publisher: IEEE
+Cite This Cite This
+PDF
+Affan Yasin ; Rubia Fatima ; Lijie Wen ; Wasif Afzal ; Muhammad Azhar ; Richard Torkar
+All Authors
+3
+Paper
+Citations
+824
+Full
+Text Views
+Open Access
+Comment(s)
+
+    Export to Collabratec
+    Alerts
+
+Under a Creative Commons License
+Abstract
+Document Sections
+
+    I.
+    Introduction
+    II.
+    Research Methodology
+    III.
+    Data Analysis
+    IV.
+    Discussion
+    V.
+    Validity Threats and Conclusion
+
+Show Full Outline
+Authors
+Figures
+References
+Citations
+Keywords
+Metrics
+Footnotes
+Abstract:
+Context: The inclusion of grey literature (GL) is important to remove publication bias while gathering available evidence regarding a certain topic. The number of systematic literature reviews (SLRs) in Software Engineering (SE) is increasing but we do not know about the extent of GL usage in these SLRs. Moreover, Google Scholar is rapidly becoming a search engine of choice for many researchers but the extent to which it can find the primary studies is not known. Objective: This tertiary study is an attempt to i) measure the usage of GL in SLRs in SE. Furthermore this study proposes strategies for categorizing GL and a quality checklist to use for GL in future SLRs; ii) explore if it is feasible to use only Google Scholar for finding scholarly articles for academic research. Method: We have conducted a systematic mapping study to measure the extent of GL usage in SE SLRs as well as to measure the feasibility of finding primary studies using Google Scholar. Results and conclusions: a) Grey Literature: 76.09% SLRs (105 out of 138) in SE have included one or more GL studies as primary studies. Among total primary studies across all SLRs (6307), 582 are classified as GL, making the frequency of GL citing as 9.23%. The intensity of GL use indicate that each SLR contains 5 primary studies on average (total intensity of GL use being 5.54). The ranking of GL tells us that conference papers are the most used form 43.3% followed by technical reports 28.52%. Universities, research institutes, labs and scientific societies together make up 67.7% of GL used, indicating that these are useful sources for searching GL. We additionally propose strategies for categorizing GL and criteria for evaluating GL quality, which can become a basis for more detailed guidelines for including GL in future SLRs. b) Google Scholar Results: The results show that Google Scholar was able to retrieve 96% of primary studies of these SLRs. Most of the primary studies that were not found using Google Sch...
+(View more)
+Published in: IEEE Access ( Volume: 8 )
+Page(s): 36226 - 36243
+Date of Publication: 05 February 2020
+Electronic ISSN: 2169-3536
+INSPEC Accession Number: 19418864
+DOI: 10.1109/ACCESS.2020.2971712
+Publisher: IEEE
+Funding Agency:
+This tertiary study is an attempt to: i) measure the usage of Grey Literature (GL) in SLRs in SE. Furthermore this study proposes strategies for categorizing GL and a quality checklist to use for GL in future SLRs; ii) explore if it is feasible to use only Google Scholar for ?nding scholarly articles for academic research.
+This tertiary study is an attempt to: i) measure the usage of Grey Literature (GL) in SLRs in SE. Furthermore this study proposes strategies for categorizing GL and a qua... View more
+Hide Full Abstract
+CCBY - IEEE is not the copyright holder of this material. Please follow the instructions via https://creativecommons.org/licenses/by/4.0/ to obtain full-text articles and stipulations in the API documentation.
+SECTION I.
+Introduction
+
+The Internet has become a vital channel for disseminating and accessing scientific literature for both the academic and industrial research needs. Nowadays, everyone has comprehensive access to scientific literature repositories, which comprise of both “white” and “grey” literature. The “grey” literature, as opposed to “white” literature, is non-peer reviewed scientific information that is not available using commercial information sources such as IEEE or ACM. A large number of software engineering researchers are undertaking systematic literature reviews (SLRs) to investigate empirical evidence in software engineering. The key reason to include grey literature during information synthesis is to minimize the risk of any bias in the publication. Using the state of the art non-commercial databases that index information, the researchers can make the rigorous process of searching empirical studies in SLRs easier. This study explains the evidence of grey literature while performing synthesis in Systematic Literature Reviews.
+
+Grey literature (GL) refers to informally published written material, not indexed by major database vendors (such as IEEE Xplore 1 and ACM 2 digital libraries). GL is usually attributed to government, academia, pressure groups, trade unions, industries and is not rigorously peer reviewed [1] . Some examples of GL are reports (progress, market research), theses, conference proceedings, technical specifications and standards, official documents, company white papers, discussion boards and blogs.
+
+Typically at the start of any research endeavor, the first-hand information about a new topic is generally collected through GL. This includes a quick search of the topic on Internet and discussions with peers [2] . GL can offer some advantages, e.g., it can be authored by scholars and scientists and thus is of high quality and detail [1] . It has recent information about a topic of interest and is focused [3] . It is also available earlier than commercially published literature [2] .
+
+The growth of Internet has immensely broadened the access to GL [4] , [5] . However it has also produced new challenges for researchers: What to include and what not to include in GL? A recent example of such a challenge was faced by a journal article where researchers claimed to identify genes that can predict human longevity with 77% accuracy. This received rapid feedback and enough criticism just after an hour of online publication [6] . The online researchers showed their skepticism about the environment and controls in which the study was conducted.
+
+Over the past decade, the Internet has emerged as an essential source of information for everyone [4] . In scientific community, academic researchers are now equipped with state of the art sources of scientific articles and meta-data research tools for their research. The online presence of scientific communities, discussion boards and blogs owned by notable authors is an important source of up-to-date scientific information . 3 However, most of the information published in online communities, blogs and discussion boards is considered as “Grey” by the definition of Grey Literature.
+
+The Grey Literature, by Luxembourg definition and GreyNet community , 4 is, “Information produced on all levels of government, academics, business and industry in electronic and print formats not controlled by commercial publishing i.e. where publishing is not the primary activity of the producing body”. In general, grey literature publications are volatile in nature and lack bibliographic controls such as place and date of publication, details of author and publisher. These tendencies of grey literature make it difficult to index and categorize it. The grey literature is often referred as “fugitive literature” as it is semi-published and difficult to locate [7] , [8] . Grey literature, though not peer-reviewed thoroughly, is still an important source of information [9] .
+
+It is worthwhile to note that grey literature, although not peer-reviewed, is often produced by scholars and scientists of their respective fields and is of high quality and detail [9] . According to Soule and Ryan [10] , grey literature is becoming a common means for information exchange because it is available on a timely basis than literature published by commercial information sources. For instance, the conference papers are in access to public long before the published articles. Beside these traits, grey literature is focused, has in-depth and up-to-date information about any topic [11] . The growth of Internet has immensely broadened the access to grey literature [4] , [12] .
+
+Now a days, research on various aspects of grey literature is being undertaken such as one of the recently published studies [13] discusses the argument whether thesis or dissertation are still counted as grey literature (taking in consideration a quality review process for graduation). Furthermore, another group of researchers [14] , [15] offer guidelines on how to include online literature/grey literature in research studies, keeping in mind the weaknesses associated with grey literature. Another group of researchers [16] , [17] focuses on whether online literature can be used for improving public law or policies. Besides this, research is also being conducted on how online repositories are indexing the grey literature with respect to specific location such as in India [18] and Africa [19] . Our study has multiple objectives and fills the research gap in software engineering by researching (i) the extent of usage of grey literature in systematic literature reviews in software engineering; (ii) categorization strategies and quality assessment criteria for grey literature and (ii) viability of Google Scholar for searching grey literature.
+
+Inclusion of GL is also important to minimize publication bias. Publication bias refers to the problem that the studies with positive results are most likely to be included as primary studies in an SLR than the studies with negative results. Some of the strategies to tackle this issue are to scan for GL, conference proceedings and unpublished results by contacting colleagues and researchers [20] – [21] [22] .
+
+With the number of SLRs in SE growing and considering the importance of GL [23] , this study investigates the extent of GL use in SE SLRs. As a secondary concern, this study also investigates the extent to which Google Scholar alone is sufficient to find primary studies for an SLR. This tertiary study thus tries to seek answer to the following research questions:
+
+RQ1: What is the extent of usage of GL in SLRs in SE?
+
+RQ1.1: What strategies can be used to categorize GL (non-peer reviewed) and how to assess its quality?
+
+Rationale for RQ1: The Internet is transforming the whole value chain of publishing by offering tools and channels for disseminating and assessing grey literature in the forms of research blogs, discussion boards and social media. The inclusion of grey literature is inevitable for minimizing publication bias in conducting SLRs in SE. The importance of including grey literature in an SLR demands a study to investigate the evidence of GL being used.
+
+RQ2: Is Google Scholar alone sufficient for searching primary studies in conducting an SLR in SE?
+
+Rationale for RQ2: The process of selecting primary studies for an SLR can be very laborious, time-consuming and rigorous [24] . Manual searches are conducted on different information sources to pile up primary studies. On the other hand, we have Google Scholar 5 6 that retrieves results from all major databases and orders them on the basis of certain attributes. It is interesting to know if researchers can rely only on Google Scholar for finding primary studies instead of manually searching separately in each of the databases.
+
+The rest of the paper is organized as follows. Section II motivates and explains the research methodologies used, including the important steps in the systematic mapping ( sub-section II-A ). Section III analyzes and explains the results acquired from the systematic mapping ( sub-section III-A ). It thoroughly discusses the characteristics of GL in SLRs including (but not limited to) their forms and origins. Furthermore, sub-section III-B discusses the google scholar indexing results obtained using the systematic mapping. Section IV discusses the proposed categorization strategies and quality evaluation criteria for GL. Threats to the validity of the study are given in sub-section V-A followed by the conclusions in sub-section V-B .
+SECTION II.
+Research Methodology
+A. Systematic Mapping Study
+
+This first part of the study is conducted as a systematic mapping study based on the guidelines proposed by Kitchenham [22] . Systematic mapping studies are recommended methods for getting a broad understanding of a research topic and does not involve detailed synthesis as in the case of a systematic literature review (see e.g. [25] , [26] ). Our methodology is driven by using a predefined protocol that aims to be unbiased by being auditable and repeatable [27] . Our study is also a tertiary study since it collects evidence from secondary studies (i.e. systematic literature reviews in software engineering). Other research methodologies e.g., surveys, experiments and case studies are not relevant for achieving the goals of this study. Surveys are typically conducted when the use of a technique has already taken place, case studies are mostly suitable for conducting industrial evaluations while experiments are used for quantifying a cause and effect relationship. In our study, we are not assessing any specific technique rather collecting overall evidence of grey literature in SLRs as well as evaluating if Google Scholar alone is able to find primary studies of SLRs.
+
+This systematic mapping study is based on RQ1 and RQ2 given in Section I . The population in this study consist of SLRs conducted in SE. Intervention includes the use of GL in SLRs within SE. The comparison is not applicable in this study as our aim is not to do a comparison. The outcome of our interest is the level of usage of GL in SLRs in SE. Our context and types of primary studies are limited to SLRs.
+1) Search Strategy
+
+Our search for primary studies (SLRs in this case) was based on the following steps:
+
+    Identification of alternate words and synonyms for terms used in the research question.
+
+    Use of Boolean OR to join alternate words and synonyms.
+
+    Use of Boolean AND to join major terms.
+
+We limited our search to papers published between year January 2004 to June 2012. We selected 2004 as the starting year because the guidelines for conducting SLRs in SE were first published in 2004. The search terms used are as following: (i) systematic review (ii) systematic literature review (iii) meta-analysis (iv) empirical evidence (v) empirical studies (vi) empirical study. The use of these search terms led to using the following search queries: empirical studies OR empirical study, systematic review AND Kitchenham, systematic literature review AND Kitchenham, meta-analysis AND Kitchenham, (empirical studies OR empirical study) AND Kitchenham, “systematic review” AND (software engineering).
+
+The following databases were selected for searching 7 :
+
+    ACM Digital Library
+
+    IEEEXplore
+
+    ScienceDirect
+
+    SpringerLink
+
+We conducted a pilot search before the actual search to verify the strength of search terms. This was an attempt to avoid time being wasted because of inadequately designed search terms [21] , [24] . After finalizing the pilot studies, we performed search and if we got more than 90% percent pilot studies using a search term, we retained it. The pilot studies included a total of 37 SLRs representing each year from 2004 to 2012. Out of the 37 pilot studies, 22 were found from Kitchenham et al.’s paper [30] while 15 more were added by contacting prominent authors.
+
+We used a three-phase strategy for searching, similar to one used in [31] . In the first phase, we searched above mentioned electronic databases. In the second phase of our search strategy, we scanned the reference lists of all the papers found after the search in electronic data bases. We then contacted authors who authored most number of SLRs and also scanned their personal webpages. In the third phase of our search strategy, we used Google Scholar 8 to find any missing SLRs. The detail of the research protocol can be seen in the Figure 1 .
+FIGURE 1.
+
+Research protocol for systematic mapping.
+
+View All
+
+2) Study Selection Criteria and Procedures for Including and Excluding Primary Studies
+
+We included papers that met the following inclusion criteria:
+
+    The paper is an SLR, written following the guidelines given in [22] .
+
+    The paper is peer-reviewed.
+
+    The paper language is English.
+
+    The paper is published between year January 2004 and June 2012.
+
+We excluded papers based on the following exclusion criteria:
+
+    Paper is not available in full-text.
+
+    Paper does not belong to SE.
+
+    A shorter version of a similar paper is excluded.
+
+    Editorials, position papers, keynotes, tutorial summaries and panel discussions are excluded.
+
+    Reports of lessons learned, expert judgments, anecdotal reports, and observations are excluded.
+
+3) Study Quality Assessment and Data Extraction
+
+We did not perform quality assessment as a separate step because one of our inclusion criterion enabled us to only include SLRs that followed guidelines proposed in [22] . This meant that the included studies were of reasonable quality and rigor. We designed a data extraction form to collect information needed to answer our research question. We extracted the full citation details of the SLR, number of primary studies used in the SLR and full citation details of every primary study used in the SLR. Most of the SLRs (primary studies in our case) included a list of primary studies while for others we had to read the full-text to get the list. For each primary study in every SLR, the authors searched for the source of the study (whether GL or indexed elsewhere). The SLRs were divided among the authors for data extraction. The data extraction was cross-checked by an author other than the one extracting.
+SECTION III.
+Data Analysis
+A. Grey Literature Evidence: Systematic Mapping
+
+A total of 138 SLRs were selected for data synthesis 9 . These SLRs covered four electronic databases (ScienceDirect, IEEE Xplore, ACM digital library, Springer Link). We present our results separately for each database and then, in the end, we will draw the overall picture of grey evidence.
+
+There were a total of 6307 primary studies extracted from 138 SLRs. The total SLRs and the primary studies are given in Table 1 for each database. The detail of the SLRs and primary studies is also shown in Figure 2 .
+TABLE 1 Total SLRs & Total Primary Studies
+FIGURE 2.
+
+Summary of SLRs and total primary studies with categorization.
+
+View All
+
+For gathering evidence relating to the use of GL, we classified the total primary studies for every electronic data base according to their source, i.e., whether coming from one of the four electronic data bases (ScienceDirect, IEEE Xplore, ACM digital library, Springer Link), other journals/books or GL.
+
+IEEE SLRs: There were a total of 48 SLRs retrieved from IEEE Xplore, consisting of 2018 primary studies. The classification of these primary studies according to their source is given in Table 2 .
+TABLE 2 GL Evidence in IEEE Xplore
+
+ACM SLRs: ACM digital library gave us 9 SLRs consisting of a total of 240 primary studies. Table 3 presents the classification of these 240 primary studies in terms of their source. The number of GL sources stand at 27, making up 11.25% of the total primary studies for SLRs found in ACM digital library.
+TABLE 3 GL Evidence in ACM Dig. Lib
+
+Science Direct SLRs: For ScienceDirect, the 67 SLRs gathered a total of 3573 primary studies. The classification of these primary studies according to their source is given in Table 4 . The percentage of GL is lowest as compared to other sources of primary studies.
+TABLE 4 GL Evidence in ScienceDirect
+
+Springer SLRs: There were a total 476 primary studies extracted from 14 SLRs of Springer Link database. 23 primary studies were classified as GL, making up 4.83% of the total number of primary studies ( Table 5 ).
+TABLE 5 GL Evidence in Springer Link
+
+In summary, out of 6307 primary studies in 138 SLRs, 582 (9.23%) were classified as GL. 4920 primary studies (78%) were from the four major databases (ScienceDirect, IEEE Xplore, ACM digital library, Springer Link).
+
+We have noticed that most of the grey literature that has been included as primary studies in SLRs are conference proceedings and technical reports. In order to further analyze the extent of GL use in SLRs, we define certain indicators:
+
+    Frequency of GL use : The proportion of SLRs with GL, out of all the SLRs examined.
+
+    Frequency of GL citing : The proportion of primary studies as GL, out of all the primary studies examined.
+
+    Intensity of GL use : The intensity of GL use is the average number of grey primary studies in SLRs with GL. It is calculated by dividing total grey primary studies by total SLRs with grey primary studies.
+
+1) Frequency of GL Use
+
+Table 6 shows that 76.09% (105 SLRs) of the total SLRs have used GL for their primary studies. The Table 6 also presents the frequency of GL use in primary studies per database.
+TABLE 6 Frequency of GL Use
+
+2) Frequency of GL Citing
+
+We see from Table 7 that 582 primary studies were identified as GL out of 6307 primary studies. The Table 7 also presents the frequency of GL citing in primary studies per database.
+TABLE 7 Frequency of GL Citing
+
+3) Intensity of GL Use
+
+Table 8 shows the intensity of GL use indicator for each database. We see that the intensity of GL use in 105 SLRs is 5.54.
+TABLE 8 Intensity of GL Use
+
+4) Total Grey Evidence Found Using Systematic Mapping
+
+A total of 6307 primary studies included in 138 SLRs are investigated. We have found out that 582 primary studies are from grey sources. The percentage of grey evidence is around 9.22% in the selected 138 SLRs of Software Engineering. Figure 3 shows the extent to which grey literature has been used in SLRs in Software Engineering (SE) .
+FIGURE 3.
+
+Total grey evidence found in software engineering SLRs.
+
+View All
+
+5) Characteristics of GL in SLRs
+
+While the inclusion of GL in synthesizing evidence is important, the GL source should be traceable. During this study, we noticed a small percentage of GL without proper bibliographical control (such as missing date of write-up and missing company name). We recommend that the GL should have at least the following information: name(s) of authors, date of write-up and name of sponsoring company.
+6) Forms of GL Cited
+
+The distribution analysis of GL with respect to forms of document is shown in Table 9 . The GL is classified into 7 categories: conference papers, technical reports, theses/dissertations, workshop/seminar papers, guidelines/lecture notes and preprints. These categories are described briefly below:
+
+    Conference papers: The conference papers not indexed in the four major databases (ScienceDirect, IEEE Xplore, ACM digital library, Springer Link) are taken as GL.
+
+    Technical reports: Includes reports such as research reports, internal progress and review reports and scientific reports.
+
+    Theses/dissertations: Includes academic theses done at undergraduate and postgraduate levels.
+
+    Workshop/seminar papers: Includes working papers from research groups and committees, typically presented in workshops and seminars.
+
+    Guidelines/lecture notes: Includes company white papers and guides to help readers understand and solve a problem.
+
+    Preprints: Includes draft of a scientific paper that has not yet been published in a peer-reviewed scientific journal.
+
+TABLE 9 Ranking of GL Documents
+
+We see that conference papers are the most cited (43%) GL document type in SLRs followed by technical reports (25.2%) and theses/dissertations (12.4%).
+7) Origin of Documents
+
+Table 10 shows the number of grey primary studies by origin type. We classify the origin of grey primary studies as being produced by universities, international organizations, research institutes/labs/scientific societies, government organizations and others. We see that the universities and research institutes/labs/scientific societies are the biggest producers of GL documents covering ~68% of the total grey primary studies. We also noticed that the grey studies produced by universities, international organizations and research institutes/labs/scientific societies contain well-formed bibliographical details and are highly accessible.
+TABLE 10 Origin of GL Documents
+
+8) Date of Publication
+
+We found 12 (~2%) grey primary studies that did not provide date of publication. The breakdown of grey primary studies with year of publication is given is Table 11 . Majority of grey primary studies included in SLRs can be found in recent past. Almost 48% (280) of included grey primary studies were published in the last 5 years.
+TABLE 11 Publication Year of GL Documents
+
+B. Google Scholar Indexing: Systematic Mapping
+
+ScienceDirect SLRs: A total of 67 SLRs were selected from ScienceDirect database. There were total of 3573 primary studies in all the SLRs. We searched the 3573 primary studies in Google Scholar indexing database. We came up with 3383 studies as hit and 190 studies as miss. Total 94.6% percent of primary studies were found in the Google Scholar. The more granular breakdown of each information source primary studies is tabulated in Table 12 .
+TABLE 12 Science Direct SLRs & Google Scholar
+
+IEEE SLRs: There were a total of 48 SLRs retrieved from IEEE that consisted of 2018 primary studies. We searched the 2018 primary studies in Google Scholar (GS). A total of 1946 primary studies were found using GS and 72 primary studies were not found. Overall 96% of primary studies were found using Google Scholar. The results of Google Scholar findings are tabulated below in Table 13 .
+TABLE 13 IEEE SLRs & Google Scholar
+
+ACM SLRs: We retrieved 9 SLRs consisting of total 240 primary studies. There were total 27 grey sources used as primary studies in SLRs selected from ACM database. We searched 240 primary studies on Google Scholar. Out of these 240 primary studies, we were able to found 229 primary studies using Google Scholar. So, overall we were able to find about 95% of total primary studies of ACM SLRs using Google Scholar. The results of Google Scholar finding are shown in Table 14 .
+TABLE 14 ACM SLRs & Google Scholar
+
+Springer Link SLRs: There were a total of 476 primary studies extracted from 14 SLRs of Springer Link database. 23 primary studies were found to be from grey sources. We searched 476 primary studies on Google Scholar. Out of these 476 primary studies, we were able to find 468 primary studies using Google Scholar. So, overall we were able to find about 98% of total primary studies of Springer Link SLRs using Google Scholar. The results of Google Scholar finding are shown in Table 15 .
+TABLE 15 Springer Link SLRs & Google Scholar
+
+Summary of Google Scholar Results: We searched for the 6307 primary studies in Google Scholar and we came up with 6026 primary studies as hit. Only 281 primary studies were not found using Google scholar. The GS hit percentage is 95.5, which if we round, becomes 96 percent. Going into more detail, we noticed that 281 primary studies that were not found by GS, most of the primary studies were grey sources. Around 38.4% of the primary studies that were not found in Google Scholar were grey literature. We believe that this is because of that fact that grey literature is volatile in nature. Also, this can be because of the fact that sometimes the grey literature is not published in electronic formats or is not published over the web at all.
+SECTION IV.
+Discussion
+
+Internet is an obvious choice for searching GL as it attracts a much broader audience [32] . Open access journals are increasing in numbers and are another source for GL. There is an increasing number of data which is generated at informal platforms, such as researchers producing personal opinions, reports and articles over social media, personal websites and blogs. Therefore to utilize this information in a proper manner, we suggest simple strategies to categorize GL based on various attributes. These strategies are a result of our experience and knowledge gained while investigating grey evidence in SLRs in SE.
+
+The strategies presented in this Section have their pros and cons. Therefore a hybrid approach has to be used when searching for GL, e.g., a combination of multiple strategies identified below:
+
+    Filtering Web Content Based on Page Views: Page view is the count of views by visitors on a web page. A popular web page is assumed to be viewed by a number of visitors. Once such a count is available, an informed decision can be reached whether to include/exclude a web page. This measure has some obvious limitations. A new web page will not have a higher count while greater number of counts do not correlate with high quality content. Moreover such a count might not be available on every web page.
+
+    Filtering Web Content Based on User Comments: For evaluating content in online blogs, discussion boards and bulletins, one can count the number of user comments as an indication of interest a particular post has generated. Again, one cannot entirely judge the importance of content with count of user comments as some comments might only be responses to earlier comments made by others (not relevant to the post).
+
+    Number of Citations: If a certain document/report is cited extensively by other authors, it can provide a measure of the importance of such a document/report. A highly cited source may be included while a low cited source may warrant a full-text read to ascertain quality.
+
+    Filtering GL Based on Type: There are certain types of GL which are of greater interest than others, such as conference proceedings are more likely to contain important evidence as compared to a company brochure. Similarly literature from certain research labs might be of high quality. Therefore the GL needs to be categorized based on types. One such categorization is based on SE SLRs and is given in Table 9 .
+
+    Filtering GL Based on Authors: While performing an SLR, it is sometimes obvious that few authors publish more than others. Consequently it might be of interest to look for GL from such authors (scanning their web pages and resources from their research groups).
+
+    Filtering GL Based on Affiliations: Our study indicates that 67.7% of GL is contributed by universities, research institutes, labs and scientific societies. This means that it is useful to search for GL in these sources. This step can be performed as a secondary step after filtering GL based on prominent authors.
+
+    Filtering GL Based on Research Methodology: Depending on the research question of an SLR, certain research methodologies will be excluded, such as one might only be interested in experimental evidence and thus surveys and case studies will be excluded.
+
+    Filtering GL Chronologically: One of the advantages of GL is that new data is available quickly. Therefore sorting GL based on date can lead researchers to capture trends and allow them an insight into innovations. Research gaps can be identified quickly, setting foundations for interesting future research ideas.
+
+All the strategies presented above have their own pros and cons. The recommendation is to use hybrid approach while using these strategies. An example combination of these strategies can be as follows;
+
+    Search the String/ Keyword.
+
+    Categorize by grey literature type (Conference Proceedings, Thesis, Reports etc.)
+
+    Categorize by no. of hits or no. of citations.
+
+There are many different combinations which can be adopted in order to fetch quality data from Internet. It totally depends on the researcher to select a certain combination of strategies which suits his research requirements.
+A. Assessment of GL Quality
+
+While inclusion of GL can help protect us from publication bias, their quality has to be assessed. GL usually do not undergo rigorous peer-review therefore their quality must be assessed against a minimum number of preset criteria. We have come up with a list of quality assessment criteria (a checklist) designed for GL, along with the motivations of including them ( Table 16 ). The criteria are based on our experience of searching GL during this study and are by no means complete. Furthermore we have not yet evaluated the validity of the quality criteria which is planned as a future study.
+TABLE 16 Quality Assessment Criteria
+
+SECTION V.
+Validity Threats and Conclusion
+A. Validity Threats
+
+This study is conducted using the guidelines for performing SLRs [22] , though on the scale of a systematic mapping study as we asked general questions (i.e., what do we know about use of GL in SE SLRs?). The search strategy was initially piloted on a small number of studies to ensure maximum coverage. The search strategy was not only limited to electronic databases but also included searching for relevant studies in the reference lists of included papers, asking researchers about any SLRs we might have missed and using Google Scholar. A validity threat is that we did not search in electronic databases other than ACM digital library, IEEE Xplore, Science Direct and Springer Link. We intend to add more databases in the future extension of this mapping study in to a detailed SLR. We defined explicit inclusion/exclusion criteria but did not perform quality assessment because we only included SLRs following standard guidelines [22] and also because our research questions were not posed to evaluate research outcomes. Quality assessment will however be required once this mapping study is extended to an SLR where we would be interested in specific research outcomes. The data extraction in our case was lengthy but not complex. On few occasions it was not easy to find primary studies of a particular SLR. In that case, two of the researchers matched their outcomes and resolved differences. The validity of data synthesis was reached by cross-checking, i.e., the data extracted by one researcher was checked for any mistakes by the other researchers. The categorization of GL in case of conference proceedings was tricky since we did not know about the review policy of some of the conferences. We took the assumption that conference proceedings not included in the four major electronic databases are GL. We know that this is not the case with every conference proceeding in SE but this threat was minimized using authors’ knowledge in SE research. However in the future SLR we intend to come up with a more detailed mechanism of categorizing conference proceedings as GL.
+
+According to Hasteer et al. [28] and Dybå et al. [29] , IEEEXplore, ACM Digital Library, Springer and Elsevier/Science Direct cover the most relevant journals, conferences and workshop proceedings within SE. Nevertheless, we acknowledge that adding more databases (including Scopus) will increase the validity of the study.
+
+Grey literature is a new and emerging area in the Software Engineering field [23] . Researchers are exploring and proposing methods to utilize grey literature. Some suggest methods on utilizing quality blogs while others suggest utilizing quality online literature in research work. To the best of our knowledge, no study in SE has tried to calculate the magnitude of this grey evidence. Therefore, we have not included a separate related work section in this study, however some of the important contributions related to grey literature are mentioned earlier in Section I .
+B. Conclusion
+
+The below subsections will summarize and conclude the results of our study.
+1) Grey Literature Results
+
+Despite the known importance of GL during SLRs, we have found out that the level of grey literature evidence is 9%. Thus, most of the literature, which is included as primary studies in SLRs, is published and peer-reviewed. GL has gained more importance in “Health and Medical Science” research because of the sensitivity of research topics about human health and life. The inclusion of grey trials is necessary to limit any publication bias in Health Science [20] . We have found out that in the field of SE, researchers undertake SLRs with overwhelming use of peer-reviewed articles. In the following section, we state our answers to previously stated research questions.
+
+RQ1: What is the extent of usage of GL in SLRs in SE?
+
+RQ1.1: What strategies can be used to categorize GL (non-peer reviewed) and how to assess its quality?
+
+After investigation of 6307 primary studies during the systematic mapping, we have found out that the percentage of grey evidence is 9% in our selected SLRs. Among the total 6307 primary studies, 582 studies were classified as grey literature. While analyzing the 582 grey links, we noticed that most of the grey literature consisted of conference proceedings and technical reports (68%). The research results in these reports and proceedings are more detailed and specific than in journals and these results are available months before the official publication in traditional databases.
+
+Our results regarding the evidence of GL in SE SLRs suggest that, on average, there is a minimal level of GL evidence (8.61%), when compared with four major electronic databases (IEEE Xplore, ACM digital library, ScienceDirect, Springer Link) and other journals/books. The comparison of GL with other sources of primary studies for the four major electronic databases is given in Figure 4 .
+FIGURE 4.
+
+GL evidence in the four electronic databases (the numbers in the bubbles are percentages).
+
+View All
+FIGURE 5.
+
+Data synthesis google scholar: results.
+
+View All
+
+The average percentage of primary studies source for IEEE Xplore, ACM digital library, ScienceDirect, Springer Link and other journal(s)/books is 33.97, 15.96, 14.65, 14.64 and 12.17, respectively. The results of performing a Kruskal-Wallis test to compare samples from each primary study source showed that at least one sample median is different from the others ( p = 0.004 , α = 0.05 ). A multiple comparisons test (Tuckey-Kramer, α = 0.05 ) showed that the primary studies from IEEE Xplore are significantly different from those belonging to GL. No other pairs of primary study sources differed significantly. This is shown in Figure 6 where the vertical dotted lines indicate differences in mean ranks of different sources, i.e., IEEE Xplore and GL have significantly different mean ranks.
+FIGURE 6.
+
+Multiple comparisons test for the different sources of primary studies.
+
+View All
+
+We also collected three other measures of GL evidence in primary studies: frequency of GL use, frequency of GL citing and intensity of GL use. These three measures for the four major electronic databases is given in Figure 7 .
+FIGURE 7.
+
+Frequency of GL use, frequency of GL citing and intensity of GL use across four databases (the numbers are percentages.
+
+View All
+
+We see that overall 76.09% SLRs (105 out of 138) in SE have included one or more GL studies as primary studies. Among 6307 primary studies across all SLRs, 582 are classified as GL, making the frequency of GL citing as 9.23% (the average across four databases is 8.61%). The intensity of GL use indicate that each SLR contains 5 primary studies on average (total intensity of GL use being 5.54). The ranking of GL tells us that conference papers are the most used form (43.3%) followed by technical reports (28.52%). Universities, research institutes, labs and scientific societies together make up 67.7% of GL used, indicating that these are useful sources for searching GL.
+2) Google Scholar Results
+
+RQ2: Is Google Scholar alone sufficient for searching primary studies in conducting an SLR in SE?
+
+Searching for research literature (especially in Software Engineering) is time-consuming, and this effort increases a lot in case of an SLR. Our study aims to find a solution to this problem by answering the RQ2. A systematic mapping study is performed where in total, 138 SLRs (6307 primary studies) were extracted from various databases and searched in Google Scholar. The results from the analysis of the Google Scholar database showed that Google Scholar was able to retrieve (96%) of primary studies of SLRs. Most of the primary studies that were not found in Google Scholar belonged to grey sources. Moreover, during our research, we have seen that the literature which was not found with Google Scholar was found from simple direct Google search. Thus, it can be argued that the combination of Google Scholar and Google can increase the chances of finding maximum number of primary studies.
+
+When we look at the results of Google Scholar, we see that Google Scholar was able to retrieve (90+%) of primary studies of SLRs. Most of the primary studies that were not found using Google Scholar were of grey sources. We found the primary studies that were not found in Google Scholar to be heterogeneous in characteristics and therefore we could not infer much about what type of studies generally Google Scholar is not able to retrieve. During our Google Scholar analysis, we noticed that some of the primary studies that were not found in GS were retrievable through Google. There were only few primary studies that were not found in both Google Scholar and Google. All of these primary studies were conference proceedings and workshops. We found that these studies were either published before year 2000 or belonged to specific conference proceedings. So collectively, we were able to find most but not all the primary studies using combination of Google Scholar and Google.
+
+Possible future work for the study is to bridge the gap between academia and the GL utilization process. In this study, we have suggested a preliminary quality evaluation checklist ( Table 16 ), which can further be enhanced and utilized to access the quality of the grey literature.
+Appendix Primary Studies Included in the Systematic Mapping Study
+
+[27] , [30] , [31] , [33] – [34] [35] [36] [37] [38] [39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] .
+
+Authors
+Figures
+References
+Citations
+Keywords
+Metrics
+Footnotes
+   Back to Results   
+More Like This
+A Hybrid Search Engine Framework for the Internet of Things Based on Spatial-Temporal, Value-Based, and Keyword-Based Conditions
+
+2012 IEEE International Conference on Green Computing and Communications
+
+Published: 2012
+Search Engine for the Internet of Things: Lessons From Web Search, Vision, and Opportunities
+
+IEEE Access
+
+Published: 2019
+Show More
+References
+1. O. Osayande and C. O. Ukpebor, "Grey literature acquisition and management: Challenges in academic libraries in Africa", 2012.
+Show Context Google Scholar
+2. M. H. Soule and R. P. Ryan, Grey Literature—Technical Briefing, Feb. 2020, [online] Available: https://www.yumpu.com/en/document/view/11260560/grey-literature-technical-briefing-by-mason-h-soule-and-ossnet.
+Show Context Google Scholar
+3. P. Pejšová, "Czech national repository of grey literature", GreyNet , pp. 117, 2010.
+Show Context Google Scholar
+4. J. Gelfand and J. King, "Grey market science: Research libraries grey literature and the legitimization of scientific discourse in the Internet age", Proc. Socioeconomic Dimensions Electron. Workshop , pp. 115-120, Nov. 2002.
+Show Context Google Scholar
+5. P. De Castro and S. Salinetti, "Quality of grey literature in the open access era: Privilege and responsibility", Publishing Res. Quart. , vol. 20, pp. 4-12, Mar. 2004.
+Show Context CrossRef Google Scholar
+6. A. Mandavilli, "Trial by Twitter", Nature , vol. 469, no. 1, pp. 286-287, 2011.
+Show Context CrossRef Google Scholar
+7. K. Denda, "Fugitive literature in the cross hairs: An examination of bibliographic control and access", Collection Manage. , vol. 27, no. 2, pp. 75-86, Jun. 2002.
+Show Context CrossRef Google Scholar
+8. A. F. van Raan, "Bibliometrics and Internet: Some observations and expectations", Scientometrics , vol. 50, no. 1, pp. 59-63, 2001.
+Show Context CrossRef Google Scholar
+9. O. Osayande and C. O. Ukpebor, "Grey literature acquisition and management: Challenges in academic libraries in Africa", Grey Literature Acquisition Manage. Challenges Acad. Libraries Africa , pp. 1-13, 2012.
+Show Context Google Scholar
+10. M. H. Soule and R. P. Ryan, Gray Literature Technical Briefing, 1999, [online] Available: http://www.dtic.mil/summit/tb07.html.
+Show Context Google Scholar
+11. M. Vaska, J. Schöpfel, I. Fürstová, R. Polčák, J. Mach, B. Frantíková, et al., "Grey literature repositories", Feb. 2010, [online] Available: https://core.ac.uk/download/pdf/35095112.pdf.
+Show Context Google Scholar
+12. P. De Castro and S. Salinetti, "Quality of grey literature in the open access era: Privilege and responsibility", Publishing Res. Quart. , vol. 20, no. 1, pp. 4-12, Mar. 2004.
+Show Context CrossRef Google Scholar
+13. J. Schopfel and B. Rasuli, "Are electronic theses and dissertations (still) grey literature in the digital age? A FAIR debate", Electron. Library , vol. 36, no. 2, pp. 208-219, Apr. 2018.
+Show Context CrossRef Google Scholar
+14. V. Garousi, M. Felderer and M. V. Mäntylä, "The need for multivocal literature reviews in software engineering: Complementing systematic literature reviews with grey literature", Proc. 20th Int. Conf. Eval. Assessment Softw. Eng. (EASE) , pp. 26:1-26:6, Jun. 2016.
+Show Context Access at ACM Google Scholar
+15. V. Garousi, M. Felderer and M. V. Mäntylä, "Guidelines for including grey literature and conducting multivocal literature reviews in software engineering", Inf. Softw. Technol. , vol. 106, pp. 101-121, Feb. 2019.
+Show Context CrossRef Google Scholar
+16. A. Lawrence, "Grey literature publishing in public policy: Production and management costs and benefits", Proc. 21st Int. Conf. Electron. Expanding Perspect. Open Sci. Communities Cultures Diversity Concepts Practices , pp. 85-99, Jun. 2017.
+Show Context Google Scholar
+17. A. Lawrence, "Influence seekers: The production of grey literature for policy and practice", Inf. Services Use , vol. 37, no. 4, pp. 389-403, Jan. 2018.
+Show Context CrossRef Google Scholar
+18. B. Shivaram and B. Biradar, "Grey literature archiving pattern in open access (OA) repositories with special emphasis on Indian OA repositories", Electron. Library , vol. 37, no. 1, pp. 95-107, Feb. 2019.
+Show Context CrossRef Google Scholar
+19. P. Sturges, "Using grey literature in informal information services in africa", J. Document. , vol. 50, no. 4, pp. 273-290, Apr. 1994.
+Show Context CrossRef Google Scholar
+20. I. Ahmed, A. J. Sutton and R. D. Riley, "Assessment of publication bias selection bias and unavailable data in meta-analyses using individual participant data: A database survey", Brit. Med. J. , vol. 344, no. 1, pp. d7762-d7762, Jan. 2012.
+Show Context CrossRef Google Scholar
+21. B. A. Kitchenham, P. Brereton, M. Turner, M. Niazi, S. G. Linkman, R. Pretorius, et al., "The impact of limited search procedures for systematic literature reviews A participant-observer case study", Proc. 3rd Int. Symp. Empirical Softw. Eng. Meas. (ESEM) , pp. 336-345, Oct. 2009.
+Show Context View Article Full Text: PDF (942KB) Google Scholar
+22. B. A. Kitchenham, "Guidelines for performing systematic literature reviews in software engineering", 2007.
+Show Context Google Scholar
+23. F. K. Kamei, "The use of grey literature review as evidence for practitioners", SIGSOFT Softw. Eng. Notes , vol. 44, no. 3, pp. 23-23, Nov. 2019.
+Show Context Access at ACM Google Scholar
+24. K. R. Felizardo, N. Salleh, R. M. Martins, E. Mendes, S. G. Macdonell and J. C. Maldonado, "Using visual text mining to support the study selection activity in systematic literature reviews", Proc. Int. Symp. Empirical Softw. Eng. Meas. (ESEM) , pp. 77-86, Sep. 2011.
+Show Context View Article Full Text: PDF (700KB) Google Scholar
+25. M. M. Hassan, W. Afzal, B. Lindström, S. M. A. Shah, S. F. Andler and M. Blom, "Testability and software performance: A systematic mapping study", Proc. 31st Annu. ACM Symp. Appl. Comput. (SAC) , pp. 1566-1569, 2016.
+Show Context Access at ACM Google Scholar
+26. D. Flemstrom, D. Sundmark and W. Afzal, "Vertical test reuse for embedded systems: A systematic mapping study", Proc. 41st Euromicro Conf. Softw. Eng. Adv. Appl. , pp. 317-324, Aug. 2015.
+Show Context View Article Full Text: PDF (166KB) Google Scholar
+27. D. S. Cruzes and T. Dybå, "Research synthesis in software engineering: A tertiary study", Inf. Softw. Technol. , vol. 53, no. 5, pp. 440-455, May 2011.
+Show Context CrossRef Google Scholar
+28. N. Hasteer, A. Bansal and B. K. Murthy, "Pragmatic assessment of research intensive areas in cloud: A systematic review", SIGSOFT Softw. Eng. Notes , vol. 38, no. 3, pp. 1, May 2013.
+Show Context Access at ACM Google Scholar
+29. T. Dyba, T. Dingsoyr and G. K. Hanssen, "Applying systematic reviews to diverse study types: An experience report", Proc. 1st Int. Symp. Empirical Softw. Eng. Meas. (ESEM) , Sep. 2007.
+Show Context View Article Full Text: PDF (307KB) Google Scholar
+30. B. Kitchenham, O. P. Brereton, D. Budgen, M. Turner, J. Bailey and S. Linkman, "Systematic literature reviews in software engineering—A systematic literature review", Inf. Softw. Technol. , vol. 51, no. 1, pp. 7-15, Jan. 2009.
+Show Context CrossRef Google Scholar
+31. W. Afzal, R. Torkar and R. Feldt, "A systematic review of search-based testing for non-functional system properties", Inf. Softw. Technol. , vol. 51, no. 6, pp. 957-976, Jun. 2009.
+Show Context CrossRef Google Scholar
+32. T. F. Frandsen, "The effects of open access on un-published documents: A case study of economics working papers", J. Informetrics , vol. 3, no. 2, pp. 124-133, Apr. 2009.
+Show Context CrossRef Google Scholar
+33. S.-J. Huang, N.-H. Chiu and Y.-J. Liu, "A comparative evaluation on the accuracies of software effort estimates from clustered data", Inf. Softw. Technol. , vol. 50, no. 9, pp. 879-888, Aug. 2008.
+CrossRef Google Scholar
+34. K.-J. Stol, M. A. Babar, P. Avgeriou and B. Fitzgerald, "A comparative study of challenges in integrating open source software and inner source software", Inf. Softw. Technol. , vol. 53, no. 12, pp. 1319-1336, Dec. 2011.
+CrossRef Google Scholar
+35. Ø. Hauge, C. Ayala and R. Conradi, "Adoption of open source software in software-intensive organizations—A systematic literature review", Inf. Softw. Technol. , vol. 52, no. 11, pp. 1133-1154, Nov. 2010.
+CrossRef Google Scholar
+36. A. Talaei-Khoei, P. Ray, N. Parameshwaran and L. Lewis, "A framework for awareness maintenance", J. Netw. Comput. Appl. , vol. 35, no. 1, pp. 199-210, Jan. 2012.
+CrossRef Google Scholar
+37. M. Wicks and R. Dewar, "A new research agenda for tool integration", J. Syst. Softw. , vol. 80, no. 9, pp. 1569-1585, Sep. 2007.
+CrossRef Google Scholar
+38. M. Escalona, J. Gutierrez, M. Mejías, G. Aragón, I. Ramos, J. Torres, et al., "An overview on test generation from functional requirements", J. Syst. Softw. , vol. 84, no. 8, pp. 1379-1393, Aug. 2011.
+CrossRef Google Scholar
+39. M. Jørgensen, "A review of studies on expert estimation of software development effort", J. Syst. Softw. , vol. 70, no. 1, pp. 37-60, 2004.
+CrossRef Google Scholar
+40. L. M. Karg, M. Grottke and A. Beckhaus, "A systematic literature review of software quality cost research", J. Syst. Softw. , vol. 84, no. 3, pp. 415-427, Mar. 2011.
+CrossRef Google Scholar
+41. G. S. Walia and J. C. Carver, "A systematic literature review to identify and classify software requirement errors", Inf. Softw. Technol. , vol. 51, no. 7, pp. 1087-1109, Jul. 2009.
+CrossRef Google Scholar
+42. P. A. Da M. S. Neto, I. D. C. Machado, J. D. Mcgregor, E. S. De Almeida and S. R. De L. Meira, "A systematic mapping study of software product lines testing", Inf. Softw. Technol. , vol. 53, no. 5, pp. 407-423, May 2011.
+CrossRef Google Scholar
+43. F. Elberzhager, J. Münch and V. T. N. Nha, "A systematic mapping study on the combination of static and dynamic quality assurance techniques", Inf. Softw. Technol. , vol. 54, no. 1, pp. 1-15, Jan. 2012.
+CrossRef Google Scholar
+44. G. Holl, P. Grünbacher and R. Rabiser, "A systematic review and an expert survey on capabilities supporting multi product lines", Inf. Softw. Technol. , vol. 54, no. 8, pp. 828-852, Aug. 2012.
+CrossRef Google Scholar
+45. M. S. Ali, M. Ali Babar, L. Chen and K.-J. Stol, "A systematic review of comparative evidence of aspect-oriented programming", Inf. Softw. Technol. , vol. 52, no. 9, pp. 871-887, Sep. 2010.
+CrossRef Google Scholar
+46. M. Khurum and T. Gorschek, "A systematic review of domain analysis solutions for product lines", J. Syst. Softw. , vol. 82, no. 12, pp. 1982-2003, Dec. 2009.
+CrossRef Google Scholar
+47. L. Chen and M. A. Babar, "A systematic review of evaluation of variability management approaches in software product lines", Inf. Softw. Technol. , vol. 53, no. 4, pp. 344-362, Apr. 2011.
+CrossRef Google Scholar
+48. M. Höst and A. Orucevic-Alagic, "A systematic review of research on open source software in commercial software product development", Inf. Softw. Technol. , vol. 53, no. 6, pp. 616-624, Jun. 2011.
+CrossRef Google Scholar
+49. D. Mellado, C. Blanco, L. E. Sánchez and E. Fernández-Medina, "A systematic review of security requirements engineering", Comput. Standards Inter. , vol. 32, no. 4, pp. 153-165, Jun. 2010.
+CrossRef Google Scholar
+50. H. P. Breivold, I. Crnkovic and M. Larsson, "A systematic review of software architecture evolution research", Inf. Softw. Technol. , vol. 54, no. 1, pp. 16-40, Jan. 2012.
+CrossRef Google Scholar
+51. F. J. Lucas, F. Molina and A. Toval, "A systematic review of UML model consistency management", Inf. Softw. Technol. , vol. 51, no. 12, pp. 1631-1645, Dec. 2009.
+CrossRef Google Scholar
+52. E. Engström, P. Runeson and M. Skoglund, "A systematic review on regression test selection techniques", Inf. Softw. Technol. , vol. 52, no. 1, pp. 14-30, Jan. 2010.
+CrossRef Google Scholar
+53. M. Svahnberg, T. Gorschek, R. Feldt, R. Torkar, S. B. Saleem and M. U. Shafique, "A systematic review on strategic release planning models", Inf. Softw. Technol. , vol. 52, no. 3, pp. 237-248, Mar. 2010.
+CrossRef Google Scholar
+54. D. Benavides, S. Segura and A. Ruiz-Cortés, "Automated analysis of feature models 20 years later: A literature review", Inf. Syst. , vol. 35, no. 6, pp. 615-636, Sep. 2010.
+CrossRef Google Scholar
+55. S. U. Khan, M. Niazi and R. Ahmad, "Barriers in the selection of offshore software development outsourcing vendors: An exploratory study using a systematic literature review", Inf. Softw. Technol. , vol. 53, no. 7, pp. 693-706, Jul. 2011.
+CrossRef Google Scholar
+56. C. Blanco, J. Lasheras, E. Fernández-Medina, R. Valencia-García and A. Toval, "Basis for an integrated security ontology according to a systematic review of existing proposals", Comput. Standards Inter. , vol. 33, no. 4, pp. 372-388, Jun. 2011.
+CrossRef Google Scholar
+57. B. J. Williams and J. C. Carver, "Characterizing software architecture changes: A systematic review", Inf. Softw. Technol. , vol. 52, no. 1, pp. 31-51, Jan. 2010.
+CrossRef Google Scholar
+58. M. Turner, B. Kitchenham, P. Brereton, S. Charters and D. Budgen, "Does the technology acceptance model predict actual use? A systematic literature review", Inf. Softw. Technol. , vol. 52, no. 5, pp. 463-479, May 2010.
+CrossRef Google Scholar
+59. T. Dybå and T. Dingsøyr, "Empirical studies of agile software development: A systematic review", Inf. Softw. Technol. , vol. 50, no. 9, pp. 833-859, Aug. 2008.
+CrossRef Google Scholar
+60. A. S. Jadhav and R. M. Sonar, "Evaluating and selecting software packages: A review", Inf. Softw. Technol. , vol. 51, no. 3, pp. 555-563, Mar. 2009.
+CrossRef Google Scholar
+61. M. Shepperd and S. Macdonell, "Evaluating prediction systems in software project estimation", Inf. Softw. Technol. , vol. 54, no. 8, pp. 820-827, Aug. 2012.
+CrossRef Google Scholar
+62. M. Staples and M. Niazi, "Experiences using systematic review guidelines", J. Syst. Softw. , vol. 80, no. 9, pp. 1425-1437, Sep. 2007.
+CrossRef Google Scholar
+63. A. L. Mesquida, A. Mas, E. Amengual and J. A. Calvo-Manzano, "IT service management process improvement based on ISO/IEC 15504: A systematic review", Inf. Softw. Technol. , vol. 54, no. 3, pp. 239-247, Mar. 2012.
+CrossRef Google Scholar
+64. F. O. Bjørnson and T. Dingsøyr, "Knowledge management in software engineering: A systematic review of studied concepts findings and research methods used", Inf. Softw. Technol. , vol. 50, no. 11, pp. 1055-1068, Oct. 2008.
+CrossRef Google Scholar
+65. P. Brereton, B. A. Kitchenham, D. Budgen, M. Turner and M. Khalil, "Lessons from applying the systematic literature review process within the software engineering domain", J. Syst. Softw. , vol. 80, no. 4, pp. 571-583, Apr. 2007.
+CrossRef Google Scholar
+66. K. Petersen, "Measuring and predicting software productivity: A systematic map and review", Inf. Softw. Technol. , vol. 53, no. 4, pp. 317-343, Apr. 2011.
+CrossRef Google Scholar
+67. H. Sharp, N. Baddoo, S. Beecham, T. Hall and H. Robinson, "Models of motivation in software engineering", Inf. Softw. Technol. , vol. 51, no. 1, pp. 219-233, Jan. 2009.
+CrossRef Google Scholar
+68. S. Beecham, N. Baddoo, T. Hall, H. Robinson and H. Sharp, "Motivation in software engineering: A systematic literature review", Inf. Softw. Technol. , vol. 50, no. 9, pp. 860-878, Aug. 2008.
+CrossRef Google Scholar
+69. W. Afzal and R. Torkar, "On the application of genetic programming for software engineering predictive modeling: A systematic review", Expert Syst. Appl. , vol. 38, no. 9, pp. 11984-11997, Sep. 2011.
+CrossRef Google Scholar
+70. J. Valaski, A. Malucelli and S. Reinehr, "Ontologies application in organizational learning: A literature review", Expert Syst. Appl. , vol. 39, no. 8, pp. 7555-7561, Jun. 2012.
+CrossRef Google Scholar
+71. S. Lane and I. Richardson, "Process models for service-based applications: A systematic literature review", Inf. Softw. Technol. , vol. 53, no. 5, pp. 424-439, May 2011.
+CrossRef Google Scholar
+72. R. Prikladnicki and J. L. N. Audy, "Process models in the practice of distributed software development: A systematic review of the literature", Inf. Softw. Technol. , vol. 52, no. 8, pp. 779-791, Aug. 2010.
+CrossRef Google Scholar
+73. A. M. Magdaleno, C. M. L. Werner and R. M. D. Araujo, "Reconciling software development models: A quasi-systematic review", J. Syst. Softw. , vol. 85, no. 2, pp. 351-369, Feb. 2012.
+CrossRef Google Scholar
+74. V. Alves, N. Niu, C. Alves and G. Valença, "Requirements engineering for software product lines: A systematic literature review", Inf. Softw. Technol. , vol. 52, no. 8, pp. 806-820, Aug. 2010.
+CrossRef Google Scholar
+75. F. Q. Da Silva, A. L. Santos, S. Soares, A. C. C. FranÇa, C. V. Monteiro and F. F. Maciel, "Six years of systematic literature reviews in software engineering: An updated tertiary study", Inf. Softw. Technol. , vol. 53, no. 9, pp. 899-913, Sep. 2011.
+CrossRef Google Scholar
+76. S. Grimstad, M. Jørgensen and K. Moløkken-østvold, "Software effort estimation terminology: The tower of Babel", Inf. Softw. Technol. , vol. 48, no. 4, pp. 302-310, Apr. 2006.
+CrossRef Google Scholar
+77. A. Ampatzoglou and I. Stamelos, "Software engineering research for computer games: A systematic review", Inf. Softw. Technol. , vol. 52, no. 9, pp. 888-901, Sep. 2010.
+CrossRef Google Scholar
+78. E. Engström and P. Runeson, "Software product line testing—A systematic mapping study", Inf. Softw. Technol. , vol. 53, no. 1, pp. 2-13, Jan. 2011.
+CrossRef Google Scholar
+79. S. Barney, K. Petersen, M. Svahnberg, A. Aurum and H. Barney, "Software quality trade-offs: A systematic map", Inf. Softw. Technol. , vol. 54, no. 7, pp. 651-662, Jul. 2012.
+CrossRef Google Scholar
+80. S. G. Macdonell, "Software source code sizing using fuzzy logic modeling", Inf. Softw. Technol. , vol. 45, no. 7, pp. 389-404, May 2003.
+CrossRef Google Scholar
+81. J. Wen, S. Li, Z. Lin, Y. Hu and C. Huang, "Systematic literature review of machine learning based software development effort estimation models", Inf. Softw. Technol. , vol. 54, no. 1, pp. 41-59, Jan. 2012.
+CrossRef Google Scholar
+82. B. A. Kitchenham, R. Pretorius, D. Budgen, P. Brereton, M. Turner, M. Niazi, et al., "Systematic literature reviews in software engineering—A tertiary study", Inf. Softw. Technol. , vol. 52, no. 8, pp. 792-805, 2010, [online] Available: https://doi.org/10.1016/j.infsof.2010.03.006.
+CrossRef Google Scholar
+83. M. Staples and M. Niazi, "Systematic review of organizational motivations for adopting CMM-based SPI", Inf. Softw. Technol. , vol. 50, no. 7, pp. 605-620, Jun. 2008.
+CrossRef Google Scholar
+84. M. Palacios, J. García-Fanjul and J. Tuya, "Testing in service oriented architectures with dynamic binding: A mapping study", Inf. Softw. Technol. , vol. 53, no. 3, pp. 171-189, Mar. 2011.
+CrossRef Google Scholar
+85. J. E. Hannay, T. Dybå, E. Arisholm and D. I. Sjøberg, "The effectiveness of pair programming: A meta-analysis", Inf. Softw. Technol. , vol. 51, no. 7, pp. 1110-1122, Jul. 2009.
+CrossRef Google Scholar
+86. J. Portillo-Rodríguez, A. Vizcaíno, M. Piattini and S. Beecham, "Tools used in Global Software Engineering: A systematic mapping review", Inf. Softw. Technol. , vol. 54, no. 7, pp. 663-685, Jul. 2012.
+CrossRef Google Scholar
+87. E. Loukis, K. Pazalos and A. Salagara, "Transforming e-services evaluation data into business analytics using value models", Electron. Commerce Res. Appl. , vol. 11, no. 2, pp. 129-141, Mar. 2012.
+CrossRef Google Scholar
+88. A. Fernandez, E. Insfran and S. Abrahão, "Usability evaluation methods for the Web: A systematic mapping study", Inf. Softw. Technol. , vol. 53, no. 8, pp. 789-817, Aug. 2011.
+CrossRef Google Scholar
+89. C. Catal and B. Diri, "A systematic review of software fault prediction studies", Expert Syst. Appl. , vol. 36, no. 4, pp. 7346-7354, May 2009.
+CrossRef Google Scholar
+90. S. M. Mitchell and C. B. Seaman, "A comparison of software cost duration and quality for waterfall vs. iterative and incremental development: A systematic review", Proc. 3rd Int. Symp. Empirical Softw. Eng. Meas. , pp. 511-515, Oct. 2009.
+View Article Full Text: PDF (889KB) Google Scholar
+91. S. Jalali and C. Wohlin, "Agile practices in global software engineering—A systematic map", Proc. 5th IEEE Int. Conf. Global Softw. Eng. , pp. 45-54, Aug. 2010.
+View Article Full Text: PDF (545KB) Google Scholar
+92. E. Barreiros, A. Almeida, J. Saraiva and S. Soares, "A systematic mapping study on software engineering testbeds", Proc. Int. Symp. Empirical Softw. Eng. Meas. , pp. 107-116, Sep. 2011.
+View Article Full Text: PDF (231KB) Google Scholar
+93. C. Blanco, J. Lasheras, R. Valencia-Garc, E. Fern, A. Toval and M. Piattini, "A systematic review and comparison of security ontologies", Proc. 3rd Int. Conf. Availability Rel. Secur. , pp. 813-820, Mar. 2008.
+View Article Full Text: PDF (299KB) Google Scholar
+94. B. Kitchenham, P. Brereton, M. Turner, M. Niazi, S. Linkman, R. Pretorius, et al., "The impact of limited search procedures for systematic literature reviews—A participant-observer case study", Proc. 3rd Int. Symp. Empirical Softw. Eng. Meas. , pp. 336-345, Oct. 2009.
+View Article Full Text: PDF (942KB) Google Scholar
+95. M. Riaz, E. Mendes and E. Tempero, "A systematic review of software maintainability prediction and metrics", Proc. 3rd Int. Symp. Empirical Softw. Eng. Meas. , pp. 367-377, Oct. 2009.
+View Article Full Text: PDF (968KB) Google Scholar
+96. H. P. Breivold, M. A. Chauhan and M. A. Babar, "A systematic review of studies of open source software evolution", Proc. Asia–Pacific Softw. Eng. Conf. , pp. 356-365, Nov./Dec. 2010.
+View Article Full Text: PDF (251KB) Google Scholar
+97. S. Ali, L. C. Briand, H. Hemmati and R. K. Panesar-Walawege, "A systematic review of the application and empirical investigation of search-based test case generation", IEEE Trans. Softw. Eng. , vol. 36, no. 6, pp. 742-762, Nov. 2010.
+View Article Full Text: PDF (4635KB) Google Scholar
+98. T. Tahir, G. Rasool and C. Gencel, "A systematic literature review on software measurement programs", Inf. Softw. Technol. , vol. 73, pp. 101-121, May 2016.
+CrossRef Google Scholar
+99. B. Cornelissen, A. Zaidman, A. Van Deursen, L. Moonen and R. Koschke, "A systematic survey of program comprehension through dynamic analysis", IEEE Trans. Softw. Eng. , vol. 35, no. 5, pp. 684-702, Sep. 2009.
+View Article Full Text: PDF (4713KB) Google Scholar
+100. P. Karpati, G. Sindre and A. L. Opdahl, "Characterising and analysing security requirements modelling initiatives", Proc. 6th Int. Conf. Availability Rel. Secur. , pp. 710-715, Aug. 2011.
+View Article Full Text: PDF (273KB) Google Scholar
+101. S. G. Macdonell and M. J. Shepperd, "Comparing local and global software effort estimation models—Reflections on a systematic review", Proc. 1st Int. Symp. Empirical Softw. Eng. Meas. (ESEM) , pp. 401-409, Sep. 2007.
+View Article Full Text: PDF (155KB) Google Scholar
+102. S. Beecham, J. Noll, I. Richardson and N. Ali, "Crafting a global teaming model for architectural knowledge", Proc. 5th IEEE Int. Conf. Global Softw. Eng. , pp. 55-63, Aug. 2010.
+View Article Full Text: PDF (408KB) Google Scholar
+103. B. A. Kitchenham, E. Mendes and G. H. Travassos, "Cross versus within-company cost estimation studies: A systematic review", IEEE Trans. Softw. Eng. , vol. 33, no. 5, pp. 316-329, May 2007.
+View Article Full Text: PDF (6698KB) Google Scholar
+104. A. Davis, O. Dieste, A. Hickey, N. Juristo and A. Moreno, "Effectiveness of requirements elicitation techniques: Empirical results derived from a systematic review", Proc. 14th IEEE Int. Requirements Eng. Conf. (RE) , pp. 176-185, Sep. 2006.
+View Article Full Text: PDF (167KB) Google Scholar
+105. N. Salleh, E. Mendes and J. Grundy, "Empirical studies of pair programming for CS/SE teaching in higher education: A systematic literature review", IEEE Trans. Softw. Eng. , vol. 37, no. 4, pp. 509-525, Jul. 2011.
+View Article Full Text: PDF (5125KB) Google Scholar
+106. P. Sfetsos and I. Stamelos, "Empirical studies on quality in agile practices: A systematic literature review", Proc. 7th Int. Conf. Qual. Inf. Commun. Technol. , pp. 44-53, Sep./Oct. 2010.
+View Article Full Text: PDF (339KB) Google Scholar
+107. M. Unterkalmsteiner, T. Gorschek, A. K. M. M. Islam, C. K. Cheng, R. B. Permadi and R. Feldt, "Evaluation and measurement of software process improvement—A systematic literature review", IEEE Trans. Softw. Eng. , vol. 38, no. 2, pp. 398-424, Mar./Apr. 2012.
+View Article Full Text: PDF (4377KB) Google Scholar
+108. J. M. Moreno-Rivera and E. Navarro, "Evaluation of SPL approaches for Webgis development: Sigtel a case study", Proc. 44th Hawaii Int. Int. Conf. Syst. Sci. (HICSS) , pp. 1-10, Jan. 2011.
+View Article Full Text: PDF (342KB) Google Scholar
+109. A. Causevic, D. Sundmark and S. Punnekkat, "Factors limiting industrial adoption of test driven development: A systematic review", 4th IEEE Int. Conf. Softw. Test. Verification Validation (ICST) , pp. 337-346, Mar. 2011.
+View Article Full Text: PDF (329KB) Google Scholar
+110. R. Berntsson-Svensson, M. Höst and B. Regnell, "Managing quality requirements: A systematic review", Proc. 36th EUROMICRO Conf. Softw. Eng. Adv. Appl. (SEAA) , pp. 261-268, Sep. 2010.
+View Article Full Text: PDF (302KB) Google Scholar
+111. R. Y. Huang and J. Symonds, "Mobile marketing evolution: Systematic literature review on multi-channel communication and multi-characteristics campaign", Proc. 12th IEEE Int. Enterprise Distrib. Object Comput. Conf. (EDOCW) , pp. 157-165, Sep. 2009.
+View Article Full Text: PDF (115KB) Google Scholar
+112. P. Brereton, M. Turner and R. Kaur, "Pair programming as a teaching tool: A student review of empirical studies", Proc. 22nd Conf. Softw. Eng. Edu. Training (CSEET) , pp. 240-247, Feb. 2009.
+View Article Full Text: PDF (234KB) Google Scholar
+113. N. Condori-Fernández, M. Daneva, K. Sikkel and A. Herrmann, "Practical relevance of experiments in comprehensibility of requirements specifications", Proc. 1st Int. Workshop Empirical Requirements Eng. (EmpiRE) , pp. 21-28, Aug. 2011.
+View Article Full Text: PDF (205KB) Google Scholar
+114. M. J. Monasor, A. Vizcaino, M. Piattini and I. Caballero, "Preparing students and engineers for global software development: A systematic review", Proc. 5th IEEE Int. Conf. Global Softw. Eng. , pp. 177-186, Aug. 2010.
+View Article Full Text: PDF (396KB) Google Scholar
+115. G. K. Hanssen, D. Smite and N. B. Moe, "Signs of agile trends in global software engineering research: A tertiary study", Proc. IEEE 6th Int. Conf. Global Softw. Eng. Workshop , pp. 17-23, Aug. 2011.
+View Article Full Text: PDF (535KB) Google Scholar
+116. H. Zhang, B. A. Kitchenham and D. Pfahl, "Software process simulation modeling: Facts trends and directions", Proc. 15th Asia–Pacific Softw. Eng. Conf. (APSEC) , pp. 59-66, Dec. 2008.
+View Article Full Text: PDF (190KB) Google Scholar
+117. S. Noponen, J. Salonen, H. Sihvonen and T. A. Kurki, "Systematic literature review of virtual role", Proc. 6th Int. Conf. Internet Technol. Secured Trans. (ICITST) , pp. 738-743, Dec. 2011, [online] Available: http://ieeexplore.ieee.org/document/6148430/.
+Google Scholar
+118. L. Major, T. Kyriacou and O. Brereton, "Systematic literature review: Teaching novices programming using robots", IET Softw. , vol. 6, no. 6, pp. 502-513, 2012.
+CrossRef Google Scholar
+119. O. Dieste and N. Juristo, "Systematic review and aggregation of empirical studies on elicitation techniques", IEEE Trans. Softw. Eng. , vol. 37, no. 2, pp. 283-304, Mar. 2011.
+View Article Full Text: PDF (14561KB) Google Scholar
+120. S. Kollanus, "Test-driven development—Still a promising approach?", Proc. 7th Int. Conf. Qual. Inf. Commun. Technol. Qual. Inf. Commun. Technol. (QUATIC) , pp. 403-408, Sep./Oct. 2010.
+View Article Full Text: PDF (168KB) Google Scholar
+121. D. Liu, Q. Wang and J. Xiao, "The role of software process simulation modeling in software risk management: A systematic review", Proc. 3rd Int. Symp. Empirical Softw. Eng. Meas. Lake Buena Vista , pp. 302-311, Oct. 2009.
+View Article Full Text: PDF (981KB) Google Scholar
+122. M. Kalinowski, G. H. Travassos and D. N. Card, "Towards a defect prevention based process improvement approach", Proc. 34th Euromicro Conf. Softw. Eng. Adv. Appl. , pp. 199-206, Sep. 2008.
+View Article Full Text: PDF (344KB) Google Scholar
+123. T. S. da Silva, A. Martin, F. Maurer and M. S. Silveira, "User-centered design and agile methods: A systematic review", Proc. Agile Conf. (AGILE) , pp. 77-86, Aug. 2011.
+View Article Full Text: PDF (473KB) Google Scholar
+124. E. Hossain, M. A. Babar and H. Paik, "Using scrum in global software development: A systematic literature review", Proc. 4th IEEE Int. Conf. Global Softw. Eng. (ICGSE) , pp. 175-184, Jul. 2009.
+View Article Full Text: PDF (317KB) Google Scholar
+125. A. Maglyas, U. Nikula and K. Smolander, "What do we know about software product management?—A systematic mapping study", Proc. 5th Int. Workshop Softw. Product Manage. (IWSPM) , pp. 26-35, Aug. 2011.
+View Article Full Text: PDF (138KB) Google Scholar
+126. M. Jorgensen and M. Shepperd, "A systematic review of software development cost estimation studies", IEEE Trans. Softw. Eng. , vol. 33, no. 1, pp. 33-53, Jan. 2007.
+View Article Full Text: PDF (2298KB) Google Scholar
+127. M. Razavian and P. Lago, "A frame of reference for SOA migration", Proc. Towards Service-Based Internet 3rd Eur. Conf. , vol. 6481, pp. 150-162, Dec. 2010.
+CrossRef Google Scholar
+128. A. Y. Teka, N. Condori-Fernández and B. Sapkota, "A systematic literature review on service description methods", Proc. 18th Int. Work. Conf. Requirements Eng. Found. Softw. Qual. (REFSQ) , vol. 7195, pp. 239-255, Mar. 2012.
+CrossRef Google Scholar
+129. G. Loniewski, E. Insfrán and S. Abrah ao, "A systematic review of the use of requirements engineering techniques in model-driven development", Proc. 13th Int. Conf. Model Driven Eng. Lang. Syst. (MODELS) , vol. 6395, pp. 213-227, Oct. 2010.
+CrossRef Google Scholar
+130. T. Yue, L. C. Briand and Y. Labiche, "A systematic review of transformation approaches between user requirements and analysis models", Requirements Eng. , vol. 16, no. 2, pp. 75-99, Jun. 2011.
+CrossRef Google Scholar
+131. Y. A. Khan, M. O. Elish and M. El-Attar, "A systematic review on the impact of CK metrics on the functional correctness of object-oriented classes", Proc. 12th Int. Conf. Comput. Sci. Appl. (ICCSA) , vol. 7336, pp. 258-273, Jun. 2012.
+CrossRef Google Scholar
+132. I. Steinmacher, A. P. Chaves and M. A. Gerosa, "Awareness support in global software development: A systematic review based on the 3C collaboration model", Proc. 16th Int. Conf. Collaboration Technol. (CRIWG) , vol. 6257, pp. 185-201, Sep. 2010.
+CrossRef Google Scholar
+133. R. L. Vivian, E. H. M. Huzita, G. C. L. Leal and A. P. C. Steinmacher, "Context-awareness on software artifacts in distributed software development: A systematic review", Proc. 17th Int. Conf. Collaboration Technol. (CRIWG) , vol. 6969, pp. 30-44, Oct. 2011.
+CrossRef Google Scholar
+134. S. Kollanus, "Critical issues on test-driven development", Proc. 12th Int. Conf. Product-Focused Softw. Process Improvement (PROFES) , vol. 6759, pp. 322-336, Jun. 2011.
+CrossRef Google Scholar
+135. D. Blanes, E. Insfrán and S. Abrahão, "Requirements engineering in the development of multi-agent systems: A systematic review", Proc. 10th Int. Conf. Intell. Data Eng. Automated Learn. (IDEAL) , vol. 5788, pp. 510-517, Sep. 2009.
+CrossRef Google Scholar
+136. M. Ivarsson and T. Gorschek, "Technology transfer decision support in requirements engineering research: A systematic review of REj", Requirements Eng. , vol. 14, no. 3, pp. 155-175, Jul. 2009.
+CrossRef Google Scholar
+137. C. Moraga, M. A. Moraga, C. Calero and A. Caro, "Towards the discovery of data quality attributes for Web portals", Proc. 9th Int. Conf. Web Eng. (ICWE) , vol. 5648, pp. 251-259, Jun. 2009.
+CrossRef Google Scholar
+138. S. D. S. Reis and R. O. Prates, "Applicability of the semiotic inspection method: A systematic literature review", Proc. 10th Brazilian Symp. Hum. Factors Comput. Syst. 5th Latin Amer. Conf. Human Comput. Interact. (IHC CLIHC) , pp. 177-186, Oct. 2011, [online] Available: http://dl.acm.org/citation.cfm?id=2254468.
+Google Scholar
+139. A. Arcuri and L. C. Briand, "A practical guide for using statistical tests to assess randomized algorithms in software engineering", Proc. 33rd Int. Conf. Softw. Eng. (ICSE) , pp. 1-10, May 2011.
+Access at ACM Google Scholar
+140. R. Rasmussen, "Electronic whiteboards in emergency medicine: A systematic review", Proc. ACM Int. Health Inform. Symp. (IHI) , pp. 483-492, Jan. 2012.
+Access at ACM Google Scholar
+141. E. Engström, M. Skoglund and P. Runeson, "Empirical evaluations of regression test selection techniques: A systematic review", Proc. 2nd Int. Symp. Empirical Softw. Eng. Meas. (ESEM) , pp. 22-31, Oct. 2008.
+Access at ACM Google Scholar
+142. R. C. de Boer and R. Farenhorst, "In search of ‘architectural knowledge", Proc. 3rd Int. Workshop Sharing Reusing Architectural Knowl. (SHARK) , pp. 71-78, May 2008.
+Access at ACM Google Scholar
+143. S. do R. S. de Souza, M. A. S. Brito, R. A. Silva, P. S. L. de Souza and E. Zaluska, "Research in concurrent software testing: A systematic review", Proc. 9th Workshop Parallel Distrib. Syst. Test. Anal. Debugging (PADTAD) , pp. 1-5, Jul. 2011.
+Google Scholar
+144. D. S. Cruzes and T. Dybå, "Synthesizing evidence in software engineering research", Proc. ACM-IEEE Int. Symp. Empirical Softw. Eng. Meas. (ESEM) , 2010.
+Access at ACM Google Scholar
+145. R. L. Glass, V. Ramesh and I. Vessey, "An analysis of research in computing disciplines", Commun. ACM , vol. 47, no. 6, pp. 89-94, Jun. 2004.
+Access at ACM Google Scholar
+146. P. Mohagheghi, V. Dehlen and T. Neple, "Definitions and approaches to model quality in model-based software development—A review of literature", Inf. Softw. Technol. , vol. 51, no. 12, pp. 1646-1669, Dec. 2009.
+CrossRef Google Scholar
+147. J. Pardillo and C. Cachero, "Domain-specific language modelling with UML profiles by decoupling abstract and concrete syntaxes", J. Syst. Softw. , vol. 83, no. 12, pp. 2591-2606, Dec. 2010.
+CrossRef Google Scholar
+148. S. U. Khan, M. Niazi and R. Ahmad, "Factors influencing clients in the selection of offshore software outsourcing vendors: An exploratory study using a systematic literature review", J. Syst. Softw. , vol. 84, no. 4, pp. 686-699, Apr. 2011.
+CrossRef Google Scholar
+149. J. Nicolás and A. Toval, "On the generation of requirements specifications from software engineering models: A systematic literature review", Inf. Softw. Technol. , vol. 51, no. 9, pp. 1291-1307, Sep. 2009.
+CrossRef Google Scholar
+150. J. C. De A. Biolchini, P. G. Mian, A. C. C. Natali, T. U. Conte and G. H. Travassos, "Scientific research ontology to support systematic review in software engineering", Adv. Eng. Informat. , vol. 21, no. 2, pp. 133-151, Apr. 2007.
+CrossRef Google Scholar
+151. S. Kakarla, S. Momotaz and A. S. Namin, "An evaluation of mutation and data-flow testing: A meta-analysis", Proc. 4th IEEE Int. Conf. Softw. Test. Verification Validation (ICST) , pp. 366-375, Mar. 2011.
+View Article Full Text: PDF (304KB) Google Scholar
+152. H. F. Landim, A. B. Albuquerque and T. C. Macedo, "Procedures and conditions that influence on the efficiency of some agile practices", Proc. 7th Int. Conf. Qual. Inf. Commun. Technol. (QUATIC) , pp. 385-390, Sep./Oct. 2010.
+View Article Full Text: PDF (265KB) Google Scholar
+153. E. Hossain, M. A. Babar, H. Paik and J. M. Verner, "Risk identification and mitigation processes for using scrum in global software development: A conceptual framework", Proc. 16th Asia–Pacific Softw. Eng. Conf. (APSEC) , pp. 457-464, Dec. 2009.
+View Article Full Text: PDF (374KB) Google Scholar
+154. M. T. Sletholt, J. E. Hannay, D. Pfahl and H. P. Langtangen, "What do we know about scientific software development’s agile practices?", Comput. Sci. Eng. , vol. 14, no. 2, pp. 24-37, Mar. 2012.
+View Article Full Text: PDF (1115KB) Google Scholar
+155. D. Wahyudin, R. Ramler and S. Biffl, "A framework for defect prediction in specific software project contexts", Proc. Softw. Eng. Techn.-3rd IFIP TC 2 Central East Eur. Conf. CEE-SET , vol. 4980, pp. 261-274, 2008.
+Google Scholar
+156. Q. Gu and P. Lago, "Service identification methods: A systematic literature review", Proc. 3rd Eur. Conf. ServiceWave Towards a Service-Based Internet , vol. 6481, pp. 37-50, Dec. 2010.
+CrossRef Google Scholar
+157. U. Hyrkkänen and S. Nenonen, "The virtual workplace of a mobile employee—How does Vischer’s model function in identifying physical functional and psychosocial fit?", Proc. 14th Int. Conf. Hum.-Comput. Interact. Towards Mobile Intell. Interact. Environments (HCI) , vol. 6763, pp. 69-75, Jul. 2011.
+Google Scholar
+158. L. Chen, M. A. Babar and N. Ali, "Variability management in software product lines: A systematic review", Proc. 13th Int. Conf. Softw. Product Lines (SPLC) , vol. 446, pp. 81-90, Aug. 2009, [online] Available: https://dl.acm.org/citation.cfm?id=1753247.
+Google Scholar
+159. S. Heckman and L. Williams, "A systematic literature review of actionable alert identification techniques for automated static code analysis", Inf. Softw. Technol. , vol. 53, no. 4, pp. 363-387, Apr. 2011.
+CrossRef Google Scholar
+160. M. Dyer, M. Shepperd and C. Wohlin, "Systematic reviews in evidence-based software technology and software engineering", Inf. Softw. Technol. , vol. 47, no. 1, pp. 1, 2005, [online] Available: http://www.sciencedirect.com/science/article/pii/S0950584904001636.
+Google Scholar
+161. J. F. Bastos, P. A. Da M. S. Neto, E. S. De Almeida and S. R. De L. Meira, "Adopting software product lines: A systematic mapping study", Proc. 15th Annu. Conf. Eval. Assessment Softw. Eng. (EASE) , pp. 11-20, 2011.
+View Article Full Text: PDF (599KB) Google Scholar
+162. C. Monteiro, D. F. Arcoverde, F. Q. B. Da Silva and H. S. Ferreira, "Software support for the Fuzzy Front End stage of the innovation process: A systematic literature review", Proc. IEEE Int. Conf. Manage. Innovation Technol. , pp. 426-431, Jun. 2010.
+View Article Full Text: PDF (419KB) Google Scholar
+163. K.-J. Stol, M. A. Babar, B. Russo and B. Fitzgerald, "The use of empirical methods in open source software research: Facts trends and future directions", Proc. ICSE Workshop Emerging Trends Free/Libre/Open Source Softw. Res. Develop. , pp. 19-24, May 2009.
+View Article Full Text: PDF (231KB) Google Scholar
+164. M. Sulayman and E. Mendes, "An extended systematic review of software process improvement in small and medium web companies", Proc. 15th Annu. Conf. Eval. Assessment Softw. Eng. (EASE) , pp. 134-143, 2011.
+View Article Full Text: PDF (315KB) Google Scholar
+165. K. A. Sedek, S. Sulaiman and M. A. Omar, "A systematic literature review of interoperable architecture for e-government portals", Proc. Malaysian Conf. Softw. Eng. , pp. 82-87, Dec. 2011.
+View Article Full Text: PDF (166KB) Google Scholar
+166. S. P. Shashank, P. Chakka and D. V. Kumar, "A systematic literature survey of integration testing in component-based software engineering", Proc. Int. Conf. Comput. Commun. Technol. (ICCCT) , pp. 562-568, Sep. 2010.
+View Article Full Text: PDF (123KB) Google Scholar
+167. A. Franca, T. Gouveia, P. Santos, C. Santana and F. Da Silva, "Motivation in software engineering: A systematic review update", Proc. 15th Annu. Conf. Eval. Assessment Softw. Eng. (EASE) , pp. 154-163, 2011.
+View Article Full Text: PDF (403KB) Google Scholar
+IEEE Personal Account
+
+    Change username/password
+
+Purchase Details
+
+    Payment Options
+    View Purchased Documents
+
+Profile Information
+
+    Communications Preferences
+    Profession and Education
+    Technical interests
+
+Need Help?
+
+    US & Canada: +1 800 678 4333
+    Worldwide: +1 732 981 0060
+    Contact & Support
+
+Follow
+
+About IEEE Xplore | Contact Us | Help | Accessibility | Terms of Use | Nondiscrimination Policy | Sitemap | Privacy & Opting Out of Cookies
+
+A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+© Copyright 2021 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+PDF Help
