@@ -26,7 +26,7 @@ Also, if there are closely related work like an SLR on the antipatterns in SOAP 
 
 - [x] Fix all tables, experiment with other tools, possibly do it manually
 
-- [ ] RQ1 in the put in the section title approach name + type of technique.
+- [x] RQ1 in the put in the section title approach name
 
 - [ ] RQ2 Also, another classification can be done, for example, to what extent the studies are manual or automatic. If there are multiple steps in the methods, which steps are manual and which are automatic or semi-automatic, and so on. You can take help from Table 7.8 and identify manual or automatic steps, and then classify the studies into manual vs. automatic vs. semi-automatic... Modify data syntesis table after changes
 
