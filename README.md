@@ -1,38 +1,35 @@
 2DV50E
-- [x] You title should be:
-A Systematic Literature Review on the Methodologies for Detecting REST Antipatterns in RESTful APIs
+# Changelist
 
-- [ ] Abstract fix: This is not really the results. Rather you should give some insights of your findings from this SLR.
+- [x] Title fix: A Systematic Literature Review on the Methodologies for Detecting REST Antipatterns in RESTful APIs
 
-- [x] template fix, strict adherence is essential
+- [x] Abstract fix: Changed the results
 
-- [x] Add target audience, Target audiece also practitioners, more than 1 group.
+- [x] Template fix: introduction made like in the template
 
-- [x] Put a link to the google sheet.
+- [x] Added Target audience section
 
-- [x] ADD colums for years for tables.
+- [x] Added a link to the google sheet in the references.
 
-- [x] Related work: Your related work section is too short!
-It has only 1 related work that is [7]. Discuss this in more detail.
-Also, if there are closely related work like an SLR on the antipatterns in SOAP Web services or WSDL, you should also mention and discuss them. Then, you need to explicitly tell and discuss the gap in the literature to motivate your study.
+- [x] ADD colums for years for all tables.
 
-- [x] Fix reference Alshraiedeh et al. to and katuk
+- [x] Related work: Expanded and discussed in more detail.
 
-- [x] Fix yr for Palma
+- [x] Future work section added.
 
-- [x] Future work, how it is now. More opportunites for work.
+- [x]  Discussed changes over the years
 
-- [ ]  Discuss in the discussion section about changes over the years. Also after fixing RQ3, steps detailing, discuss changes here too.
+- [x] Appendix table multiple improvements. I don't know how to format them any better. I experimented with many designs
 
-- [x] Fix all tables, experiment with other tools, possibly do it manually
+- [x] Applied Grammarly premium to all the document. This removed MANY mistakes.
 
-- [ ] RQ1 in the put in the section title approach name + type of technique.
+- [x] RQ1: Changed approach titles
 
-- [ ] RQ2 Also, another classification can be done, for example, to what extent the studies are manual or automatic. If there are multiple steps in the methods, which steps are manual and which are automatic or semi-automatic, and so on. You can take help from Table 7.8 and identify manual or automatic steps, and then classify the studies into manual vs. automatic vs. semi-automatic... Modify data syntesis table after changes
+- [x] RQ2: Labeled each classification based on the difficulty in applying the classification of the approach.
+This was done with the help of the automatic vs manual step extra data collected.
 
-- [ ] RQ2 use the images/code to give examples for each classification.
+- [x] RQ2: Added vector images with examples to each classification.
 
-- [ ] RQ3 add substeps and then compare them, otherwise ok.
+- [x] RQ3: Added substeps with manual or automatic labeling
 
-- [ ] RQ5 group antippaterns by type and list them, I will do for example and not list all of them.
-- [ ] Final reading and checking of layout
+- [x] RQ5: Added a table with antipatterns grouped by type, also most cited antipatterns where relevant
